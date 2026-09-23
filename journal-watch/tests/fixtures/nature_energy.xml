@@ -1,0 +1,166 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/">
+    <channel rdf:about="http://feeds.nature.com/nenergy/rss/current">
+        <title>Nature Energy</title>
+        <description>Nature Energy is an online-only journal interested in all aspects of energy, from its generation and storage, to its distribution and management, the needs and demands of the different actors involved, and the impacts that energy technologies and policies have on different societies. The journal has a particular interest in studies that advance our knowledge and inform the development of next-generation technologies and solutions. Nature Energy publishes research from the natural, behavioural and social sciences.</description>
+        <link>http://feeds.nature.com/nenergy/rss/current</link>
+        <admin:generatorAgent rdf:resource="https://www.nature.com/"/>
+        <admin:errorReportsTo rdf:resource="mailto:feedback@nature.com"/>
+        <dc:publisher>Nature Publishing Group</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:rights>© 2026 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</dc:rights>
+        <prism:publicationName>Nature Energy</prism:publicationName>
+        
+        
+        <prism:copyright>© 2026 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</prism:copyright>
+        <prism:rightsAgent>permissions@nature.com</prism:rightsAgent>
+        <image rdf:resource="https://www.nature.com/uploads/product/nenergy/rss.png"/>
+        <items>
+            <rdf:Seq>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41560-026-02015-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41560-026-02018-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41560-026-02013-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41560-026-02010-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41560-026-01965-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41560-026-01978-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41560-026-02034-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41560-026-02007-8"/>
+                
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://www.nature.com/uploads/product/nenergy/rss.png">
+        <title>Nature Energy</title>
+        <url>https://www.nature.com/uploads/product/nenergy/rss.png</url>
+        <link>http://feeds.nature.com/nenergy/rss/current</link>
+    </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41560-026-02015-8">
+            <title><![CDATA[Amorphous self-assembled multilayers for perovskite solar cells with improved reverse bias stability]]></title>
+            <link>https://www.nature.com/articles/s41560-026-02015-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature Energy, Published online: 20 March 2026; <a href="https://www.nature.com/articles/s41560-026-02015-8">doi:10.1038/s41560-026-02015-8</a></p>The morphology of hole-selective contacts is key to the stability of perovskite solar cells. Feng et al. use self-assembled molecules with extended conjugation and hydroxyl groups to form dense, amorphous films that suppress degradation induced by ion migration.]]></content:encoded>
+            <dc:title><![CDATA[Amorphous self-assembled multilayers for perovskite solar cells with improved reverse bias stability]]></dc:title>
+            <dc:creator>Qifan Feng</dc:creator><dc:creator>Kai-Kai Liu</dc:creator><dc:creator>Deng Wang</dc:creator><dc:creator>Songyang Yuan</dc:creator><dc:creator>Zhenhuang Su</dc:creator><dc:creator>Zhaoyu Lou</dc:creator><dc:creator>Ziwei Liu</dc:creator><dc:creator>Nikhil Kalasariya</dc:creator><dc:creator>Wenlin Jiang</dc:creator><dc:creator>Xin Wu</dc:creator><dc:creator>Shuo Zhang</dc:creator><dc:creator>Binghui Wu</dc:creator><dc:creator>Zonglong Zhu</dc:creator><dc:creator>Xiaofeng Huang</dc:creator><dc:creator>Alex K.-Y. Jen</dc:creator><dc:creator>Martin Stolterfoht</dc:creator>
+            <dc:identifier>doi:10.1038/s41560-026-02015-8</dc:identifier>
+            <dc:source>Nature Energy, Published online: 2026-03-20; | doi:10.1038/s41560-026-02015-8</dc:source>
+            <dc:date>2026-03-20</dc:date>
+            <prism:publicationName>Nature Energy</prism:publicationName>
+            <prism:doi>10.1038/s41560-026-02015-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41560-026-02015-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41560-026-02018-5">
+            <title><![CDATA[Alkali-metal-mediated control of phase segregation for flexible kesterite solar cells and modules with improved efficiency]]></title>
+            <link>https://www.nature.com/articles/s41560-026-02018-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature Energy, Published online: 20 March 2026; <a href="https://www.nature.com/articles/s41560-026-02018-5">doi:10.1038/s41560-026-02018-5</a></p>The incorporation of alkali metals in kesterite solar cells enables high efficiency but is challenging to control. Xu et al. show that combining Na and Li ions yields optimal phase formation, enabling efficient solar cells and modules.]]></content:encoded>
+            <dc:title><![CDATA[Alkali-metal-mediated control of phase segregation for flexible kesterite solar cells and modules with improved efficiency]]></dc:title>
+            <dc:creator>Xiao Xu</dc:creator><dc:creator>Jinlin Wang</dc:creator><dc:creator>Menghan Jiao</dc:creator><dc:creator>Bowen Zhang</dc:creator><dc:creator>Tan Guo</dc:creator><dc:creator>Yuan Li</dc:creator><dc:creator>Jingchen Wang</dc:creator><dc:creator>Shudan Chen</dc:creator><dc:creator>Yiming Li</dc:creator><dc:creator>Dongmei Li</dc:creator><dc:creator>Jiangjian Shi</dc:creator><dc:creator>Huijue Wu</dc:creator><dc:creator>Wensheng Yan</dc:creator><dc:creator>Yanhong Luo</dc:creator><dc:creator>Qingbo Meng</dc:creator>
+            <dc:identifier>doi:10.1038/s41560-026-02018-5</dc:identifier>
+            <dc:source>Nature Energy, Published online: 2026-03-20; | doi:10.1038/s41560-026-02018-5</dc:source>
+            <dc:date>2026-03-20</dc:date>
+            <prism:publicationName>Nature Energy</prism:publicationName>
+            <prism:doi>10.1038/s41560-026-02018-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41560-026-02018-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41560-026-02013-w">
+            <title><![CDATA[Exploiting the insulator–metal transition of VO<sub>2</sub> in photocatalytic methane conversion]]></title>
+            <link>https://www.nature.com/articles/s41560-026-02013-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature Energy, Published online: 17 March 2026; <a href="https://www.nature.com/articles/s41560-026-02013-w">doi:10.1038/s41560-026-02013-w</a></p>Photocatalysts for methane conversion can suffer from inefficient charge carrier diffusion, limiting their effectiveness. Here the authors exploit the insulator–metal transition in VO2 to create an electronic phase junction, enhancing the non-oxidative conversion of methane into hydrogen, ethane and propane, with peak efficiency at the transition’s critical temperature.]]></content:encoded>
+            <dc:title><![CDATA[Exploiting the insulator–metal transition of VO<sub>2</sub> in photocatalytic methane conversion]]></dc:title>
+            <dc:creator>My Nghe Tran</dc:creator><dc:creator>Duc Manh Nguyen</dc:creator><dc:creator>Matthieu Kpessu Ahounou</dc:creator><dc:creator>Ernesto de la Torre Miranda</dc:creator><dc:creator>Melissa Alzate Banguero</dc:creator><dc:creator>David Troadec</dc:creator><dc:creator>Christophe Coinon</dc:creator><dc:creator>Ahmed Addad</dc:creator><dc:creator>Karima Ben Tayeb</dc:creator><dc:creator>Alexandre Boulle</dc:creator><dc:creator>Pascale Diener</dc:creator><dc:creator>David Mele</dc:creator><dc:creator>Louis Thomas</dc:creator><dc:creator>Xavier Wallart</dc:creator><dc:creator>Lionel Aigouy</dc:creator><dc:creator>Alexandre Zimmers</dc:creator><dc:creator>Aurelian Crunteanu</dc:creator><dc:creator>Vitaly Ordomsky</dc:creator><dc:creator>Bruno Grandidier</dc:creator>
+            <dc:identifier>doi:10.1038/s41560-026-02013-w</dc:identifier>
+            <dc:source>Nature Energy, Published online: 2026-03-17; | doi:10.1038/s41560-026-02013-w</dc:source>
+            <dc:date>2026-03-17</dc:date>
+            <prism:publicationName>Nature Energy</prism:publicationName>
+            <prism:doi>10.1038/s41560-026-02013-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41560-026-02013-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41560-026-02010-z">
+            <title><![CDATA[Additive-assisted perovskite crystallization on industrial TOPCon silicon for tandem solar cells with improved efficiency]]></title>
+            <link>https://www.nature.com/articles/s41560-026-02010-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature Energy, Published online: 16 March 2026; <a href="https://www.nature.com/articles/s41560-026-02010-z">doi:10.1038/s41560-026-02010-z</a></p>Crystallizing the perovskite layer on thin tunnel oxide passivated contact silicon cells is challenging due to rapid heat transfer. Zhou et al. address this issue using a 2-mercaptobenzothiazole additive, achieving a tandem cell efficiency of 32.76%.]]></content:encoded>
+            <dc:title><![CDATA[Additive-assisted perovskite crystallization on industrial TOPCon silicon for tandem solar cells with improved efficiency]]></dc:title>
+            <dc:creator>Qilin Zhou</dc:creator><dc:creator>Renjun Guo</dc:creator><dc:creator>Shunchang Liu</dc:creator><dc:creator>Nengxu Li</dc:creator><dc:creator>Menglei Xu</dc:creator><dc:creator>Xinyu Zhang</dc:creator><dc:creator>Xianyuan Jiang</dc:creator><dc:creator>Lu Wang</dc:creator><dc:creator>Laura-Isabelle Dion-Bertrand</dc:creator><dc:creator>Zhuojie Shi</dc:creator><dc:creator>Xiao Guo</dc:creator><dc:creator>Haoming Liang</dc:creator><dc:creator>Zijing Dong</dc:creator><dc:creator>Jinxi Chen</dc:creator><dc:creator>Yu-Duan Wang</dc:creator><dc:creator>Ran Luo</dc:creator><dc:creator>Xi Wang</dc:creator><dc:creator>Jungan Wang</dc:creator><dc:creator>Jie Yang</dc:creator><dc:creator>Hao Jin</dc:creator><dc:creator>Chun-Hsiao Kuan</dc:creator><dc:creator>Sung-Fu Hung</dc:creator><dc:creator>Zhenrong Jia</dc:creator><dc:creator>Ling Kai Lee</dc:creator><dc:creator>Donny Lai</dc:creator><dc:creator>Eric Wei-Guang Diau</dc:creator><dc:creator>Wentao Yan</dc:creator><dc:creator>Yi Hou</dc:creator>
+            <dc:identifier>doi:10.1038/s41560-026-02010-z</dc:identifier>
+            <dc:source>Nature Energy, Published online: 2026-03-16; | doi:10.1038/s41560-026-02010-z</dc:source>
+            <dc:date>2026-03-16</dc:date>
+            <prism:publicationName>Nature Energy</prism:publicationName>
+            <prism:doi>10.1038/s41560-026-02010-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41560-026-02010-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41560-026-01965-3">
+            <title><![CDATA[Irreversible organic cations chemistry limits organic–inorganic halide perovskite stability under illumination or bias]]></title>
+            <link>https://www.nature.com/articles/s41560-026-01965-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature Energy, Published online: 13 March 2026; <a href="https://www.nature.com/articles/s41560-026-01965-3">doi:10.1038/s41560-026-01965-3</a></p>Oxidation and reduction reactions undermine the stability of perovskite solar cells under illumination and bias. In this Perspective, Ren et al. examine the impact of irreversible reactions involving organic cations, identify key knowledge gaps, and outline strategies for mitigation.]]></content:encoded>
+            <dc:title><![CDATA[Irreversible organic cations chemistry limits organic–inorganic halide perovskite stability under illumination or bias]]></dc:title>
+            <dc:creator>Zhilin Ren</dc:creator><dc:creator>Stjepan Dolić</dc:creator><dc:creator>Vedran Kojić</dc:creator><dc:creator>Zhengtian Yuan</dc:creator><dc:creator>Pavel Troshin</dc:creator><dc:creator>Andreja Gajović</dc:creator><dc:creator>Jasminka Popović</dc:creator><dc:creator>Aleksandra B. Djurišić</dc:creator>
+            <dc:identifier>doi:10.1038/s41560-026-01965-3</dc:identifier>
+            <dc:source>Nature Energy, Published online: 2026-03-13; | doi:10.1038/s41560-026-01965-3</dc:source>
+            <dc:date>2026-03-13</dc:date>
+            <prism:publicationName>Nature Energy</prism:publicationName>
+            <prism:doi>10.1038/s41560-026-01965-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41560-026-01965-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41560-026-01978-y">
+            <title><![CDATA[Understanding UK public preferences and attitudes to a decarbonized heating system]]></title>
+            <link>https://www.nature.com/articles/s41560-026-01978-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature Energy, Published online: 12 March 2026; <a href="https://www.nature.com/articles/s41560-026-01978-y">doi:10.1038/s41560-026-01978-y</a></p>Substantial heterogeneity is evident in stances towards the development of aquifer thermal energy storage (ATES) systems in the UK. An assessment of individual preferences reveals substantial valuations of specific ATES characteristics that are nevertheless modified by latent attitudes regarding systemic and local benefits, safety concerns, information provision, and policy support.]]></content:encoded>
+            <dc:title><![CDATA[Understanding UK public preferences and attitudes to a decarbonized heating system]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/s41560-026-01978-y</dc:identifier>
+            <dc:source>Nature Energy, Published online: 2026-03-12; | doi:10.1038/s41560-026-01978-y</dc:source>
+            <dc:date>2026-03-12</dc:date>
+            <prism:publicationName>Nature Energy</prism:publicationName>
+            <prism:doi>10.1038/s41560-026-01978-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41560-026-01978-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41560-026-02034-5">
+            <title><![CDATA[Author Correction: Heterogeneity in public attitudes and preferences for the deployment of aquifer thermal energy storage]]></title>
+            <link>https://www.nature.com/articles/s41560-026-02034-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature Energy, Published online: 11 March 2026; <a href="https://www.nature.com/articles/s41560-026-02034-5">doi:10.1038/s41560-026-02034-5</a></p>Author Correction: Heterogeneity in public attitudes and preferences for the deployment of aquifer thermal energy storage]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Heterogeneity in public attitudes and preferences for the deployment of aquifer thermal energy storage]]></dc:title>
+            <dc:creator>Ting Liu</dc:creator><dc:creator>Richard Hanna</dc:creator><dc:creator>Yiannis Kountouris</dc:creator>
+            <dc:identifier>doi:10.1038/s41560-026-02034-5</dc:identifier>
+            <dc:source>Nature Energy, Published online: 2026-03-11; | doi:10.1038/s41560-026-02034-5</dc:source>
+            <dc:date>2026-03-11</dc:date>
+            <prism:publicationName>Nature Energy</prism:publicationName>
+            <prism:doi>10.1038/s41560-026-02034-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41560-026-02034-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41560-026-02007-8">
+            <title><![CDATA[Bifacial tunnel oxide passivating contacts for silicon and perovskite/silicon tandem solar cells with improved efficiency]]></title>
+            <link>https://www.nature.com/articles/s41560-026-02007-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature Energy, Published online: 11 March 2026; <a href="https://www.nature.com/articles/s41560-026-02007-8">doi:10.1038/s41560-026-02007-8</a></p>Interfacial charge recombination losses limit solar cell efficiency. Gao et al. mitigate these losses through front and rear-contact engineering, achieving efficiencies of 26.34% and 32.73% in tunnel oxide passivating contact single-junction and tandem solar cells.]]></content:encoded>
+            <dc:title><![CDATA[Bifacial tunnel oxide passivating contacts for silicon and perovskite/silicon tandem solar cells with improved efficiency]]></dc:title>
+            <dc:creator>Kun Gao</dc:creator><dc:creator>Jie Mao</dc:creator><dc:creator>Zhongshu Yang</dc:creator><dc:creator>Shibo Wang</dc:creator><dc:creator>Liu Yang</dc:creator><dc:creator>Wei Shi</dc:creator><dc:creator>Fengxian Cao</dc:creator><dc:creator>Chang Wang</dc:creator><dc:creator>Wenhao Li</dc:creator><dc:creator>Bowen Yang</dc:creator><dc:creator>Bo Gao</dc:creator><dc:creator>Jungan Wang</dc:creator><dc:creator>Peiting Zheng</dc:creator><dc:creator>Menglei Xu</dc:creator><dc:creator>Jie Yang</dc:creator><dc:creator>Xinyu Zhang</dc:creator><dc:creator>Chengbao Liu</dc:creator><dc:creator>Daniel Macdonald</dc:creator><dc:creator>Xinbo Yang</dc:creator><dc:creator>Xiaohong Zhang</dc:creator>
+            <dc:identifier>doi:10.1038/s41560-026-02007-8</dc:identifier>
+            <dc:source>Nature Energy, Published online: 2026-03-11; | doi:10.1038/s41560-026-02007-8</dc:source>
+            <dc:date>2026-03-11</dc:date>
+            <prism:publicationName>Nature Energy</prism:publicationName>
+            <prism:doi>10.1038/s41560-026-02007-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41560-026-02007-8</prism:url>
+        </item>
+    
+</rdf:RDF>

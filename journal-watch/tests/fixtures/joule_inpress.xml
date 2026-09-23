@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://purl.org/rss/1.0/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# uri:atypon.com:cms:schema:rdf.xsd">
+   <channel rdf:about="https://www.cell.com/joule/archive?publicationCode=joul&amp;rss=yes">
+      <title>Joule</title>
+      <description>Joule RSS feed. </description>
+      <link>https://www.cell.com/joule/archive?publicationCode=joul&amp;rss=yes</link>
+      <dc:publisher>Elsevier Inc.</dc:publisher>
+      <dc:language>en</dc:language>
+      <dc:rights>© 2026 Published by Elsevier Inc. All rights reserved.</dc:rights>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:issn>2542-4785</prism:issn>
+      <prism:publicationDate>2026-03-19-07:00</prism:publicationDate>
+      <prism:copyright>© 2026 Published by Elsevier Inc. All rights reserved.</prism:copyright>
+      <prism:rightsAgent>permissionshelpdesk@elsevier.com</prism:rightsAgent>
+      <items>
+         <rdf:Seq>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(26)00033-4?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(26)00029-2?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(26)00006-1?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(26)00035-8?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(26)00030-9?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(26)00027-9?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(26)00025-5?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(26)00022-X?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(26)00020-6?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(26)00024-3?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(26)00004-8?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(26)00002-4?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(26)00001-2?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(26)00003-6?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(25)00497-0?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(25)00496-9?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(25)00495-7?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(25)00494-5?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(25)00493-3?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(25)00492-1?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(25)00486-6?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(25)00483-0?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(25)00477-5?rss=yes"/>
+            <rdf:li rdf:resource="https://www.cell.com/joule/fulltext/S2542-4351(25)00478-7?rss=yes"/>
+         </rdf:Seq>
+      </items>
+   </channel>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(26)00033-4?rss=yes">
+      <title>Impacts from procuring clean electricity claims under different inventory accounting methods</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(26)00033-4?rss=yes</link>
+      <description>This paper characterizes the impacts of procuring clean electricity claims under different inventory accounting methods. It shows how a move to spatiotemporal matching requirements can increase impact, while still not guaranteeing that claims correspond to an equal increase in clean generation.</description>
+      <dc:title>Impacts from procuring clean electricity claims under different inventory accounting methods</dc:title>
+      <dc:creator>Pieter Gagnon, Maxwell Brown</dc:creator>
+      <dc:identifier>10.1016/j.joule.2026.102349</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-03-19</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-03-19</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(26)00029-2?rss=yes">
+      <title>Suppressing defects in kesterite solar cells via balanced phase evolution to enable 15.1% certified record efficiency</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(26)00029-2?rss=yes</link>
+      <description>Kesterite (CZTSSe) solar cells use earth-abundant, non-toxic elements but their efficiency is limited by complex defects. We show that an imbalance between intermediate phases during selenization triggers harmful Zn-related defects. Introducing reactive Na-Sex species accelerates Cu2SnSe3 formation and balances phase evolution into CZTSSe, suppressing defect formation. This kinetic control enables a certified 15.1% device performance, clearing a key commercialization benchmark for sustainable thin-film photovoltaics.</description>
+      <dc:title>Suppressing defects in kesterite solar cells via balanced phase evolution to enable 15.1% certified record efficiency</dc:title>
+      <dc:creator>Menghan Jiao, Bowen Zhang, Jinlin Wang, Xiao Xu, Tan Guo, Shudan Chen, Jingchen Wang, Yuan Li, Yiming Li, Huijue Wu, Jiangjian Shi, Yanhong Luo, Dongmei Li, Qingbo Meng</dc:creator>
+      <dc:identifier>10.1016/j.joule.2026.102345</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-03-19</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-03-19</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(26)00006-1?rss=yes">
+      <title>Toward near-100% initial Coulombic efficiency of Si anodes through irreducible solid electrolyte-induced dynamic interphases</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(26)00006-1?rss=yes</link>
+      <description>Silicon anodes promise high energy density for all-solid-state batteries (ASSBs) but are limited by severe lithium loss during the first cycle. This work reveals how controlled interfacial reactions enabled by an irreducible solid electrolyte Li2.45S0.55N0.45 can replenish lithium, enhance initial Coulombic efficiency, and maintain fast ion transport. By uncovering the underlying interfacial reaction mechanism, the study demonstrates how rational interface design can simultaneously improve efficiency and electrochemical performance, offering a practical pathway toward safer, high-energy ASSBs.</description>
+      <dc:title>Toward near-100% initial Coulombic efficiency of Si anodes through irreducible solid electrolyte-induced dynamic interphases</dc:title>
+      <dc:creator>Wenxuan Zhao, Zhu Cheng, Victor Vanpeene, Anastasia K. Lavrinenko, Alexandros Vasileiadis, Moumita Rana, Meng-fu Tu, Lars Bannenberg, Victor Landgraf, Sandrine Lyonnard, Yaolin Xu, Lide Yao, Swapna Ganapathy, Marnix Wagemaker</dc:creator>
+      <dc:identifier>10.1016/j.joule.2026.102322</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-03-18</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-03-18</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(26)00035-8?rss=yes">
+      <title>Misconceptions in discussing concentration in battery electrolyte research</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(26)00035-8?rss=yes</link>
+      <description>This commentary highlights the frequent misuse and misdefinition of electrolyte concentration in battery research, which can lead to misleading interpretations of electrochemical behavior. By clarifying the conceptual foundations of concentration, it provides a more accurate framework for designing electrolytes and improving the reliability of battery studies.</description>
+      <dc:title>Misconceptions in discussing concentration in battery electrolyte research</dc:title>
+      <dc:creator>Jinkwang Hwang, Di Wang, Kazuhiko Matsumoto</dc:creator>
+      <dc:identifier>10.1016/j.joule.2026.102351</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-03-17</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-03-17</prism:publicationDate>
+      <prism:section>Commentary</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(26)00030-9?rss=yes">
+      <title>Antipolar-breaking eliciting giant energy storage in antiferroelectric ceramics</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(26)00030-9?rss=yes</link>
+      <description>The antipolar-breaking strategy in PbZrO3-based AFE materials can substantially postpone the phase-transition field and minimize electric hysteresis, thereby markedly enhancing overall energy-storage capabilities. This strategy will accelerate progress of the research and application in AFE-related high-performance devices, the achieved energy-storage performance, and the underlying mechanism establishes valuable design guidelines for developing high-performance multiplayer ceramic capacitors.</description>
+      <dc:title>Antipolar-breaking eliciting giant energy storage in antiferroelectric ceramics</dc:title>
+      <dc:creator>Tengfei Hu, Yuanjie Li, Shiguang Yan, Yufan Li, Lifeng Peng, Xiaohui Liu, Fei Cao, Linlin Zhang, Guanglong Ge, Liqiang He, Zhen Liu, Xuefeng Chen, Zhengqian Fu, Fangfang Xu, Genshui Wang</dc:creator>
+      <dc:identifier>10.1016/j.joule.2026.102346</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-03-11</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-03-11</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(26)00027-9?rss=yes">
+      <title>Rapid and non-destructive diagnosis of lithium-ion batteries via quantification of anode spatial degradation</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(26)00027-9?rss=yes</link>
+      <description>This study establishes the spatial distribution of anode degradation as a diagnostic descriptor of the health state of commercial lithium-ion batteries and captures it non-invasively using pulse-induced overvoltage relaxation. The diagnostic signal closely reflects degradation behavior, as validated through post-mortem analysis, and enables accurate prediction of future capacity fade across diverse operating scenarios.</description>
+      <dc:title>Rapid and non-destructive diagnosis of lithium-ion batteries via quantification of anode spatial degradation</dc:title>
+      <dc:creator>Inwoo Kim, Seongha An, Hyunjae Kim, Jaewook Lee, Hobyung Chae, Wanchuck Woo, Jang Wook Choi</dc:creator>
+      <dc:identifier>10.1016/j.joule.2026.102343</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-03-11</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-03-11</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(26)00025-5?rss=yes">
+      <title>A fast-charging aluminum-sulfurized polyacrylonitrile battery enabled by electrochemical activation in molten salts</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(26)00025-5?rss=yes</link>
+      <description>This study presents a fast-charging molten salt Al-SPAN battery. Crucially, the electrochemical activation behavior of the SPAN cathode during the first discharge is investigated. The formed Al–N4 coordination structure exhibits dual functionality: (1) residual Al3+ in the Al–N4 configuration reduces the HOMO-LUMO gap of pristine SPAN, enhancing cathode conductivity, and (2) the structure serves as active sites that adsorb and catalyze sulfur species transformation.</description>
+      <dc:title>A fast-charging aluminum-sulfurized polyacrylonitrile battery enabled by electrochemical activation in molten salts</dc:title>
+      <dc:creator>Xiaolin Wu, Yaqi Zhao, Yu Wang, Zhitong Xiao, Junling Huang, Hao Zhang, Yongfeng Jia, Lujun Zhu, Meng Zhang, Xin Tong, Lingzhi Du, Xuanpeng Wang, Jiashen Meng, Quanquan Pang</dc:creator>
+      <dc:identifier>10.1016/j.joule.2026.102341</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-03-11</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-03-11</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(26)00022-X?rss=yes">
+      <title>Origami-structured triboelectric nanogenerator for energy and information co-harvesting from a single hand tap</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(26)00022-X?rss=yes</link>
+      <description>Driven by the rapid growth of IoT and wearable technologies, the demand for battery-free, self-powered nodes capable of autonomous sensing and wireless data transmission has become increasingly urgent. This work introduces an origami-inspired triboelectric nanogenerator that is capable of energy and information co-harvesting from a single hand tap. By co-designing adaptive mechanical structures with efficient electrical interfacing, the proposed system enables responsive, battery-free sensing and interaction, pointing toward a new paradigm for self-powered wearable and IoT technologies.</description>
+      <dc:title>Origami-structured triboelectric nanogenerator for energy and information co-harvesting from a single hand tap</dc:title>
+      <dc:creator>Yawei Wang, Yaozi Zheng, Yizhou Li, Yi Wu, Hao Tang, Minyi Xu, Quanke Su, Guobiao Hu</dc:creator>
+      <dc:identifier>10.1016/j.joule.2026.102338</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-03-11</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-03-11</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(26)00020-6?rss=yes">
+      <title>Cooperativity between free radicals promotes selective methane oxidation</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(26)00020-6?rss=yes</link>
+      <description>Hydroxyl radicals (⋅OH) and superoxide anion (O2⋅−)/hydroperoxide radicals (⋅OOH) have distinct reactivities and are key redox mediators in light-driven chemical transformations. We report the discovery of a cooperative, job-sharing mechanism between them, which enables an acceleration of reaction rates in photocatalytic upgrading of methane. We also develop a reaction-engineering solution of decoupled-and-stepwise strategy, in which the intermediate methyl hydroperoxide can be selectively and effectively converted into value-added products such as methanol or formaldehyde.</description>
+      <dc:title>Cooperativity between free radicals promotes selective methane oxidation</dc:title>
+      <dc:creator>Gang Wan, Alexander J. Heyer, Eddie Sun, Chenlu Xie, Edward I. Solomon, Arun Majumdar</dc:creator>
+      <dc:identifier>10.1016/j.joule.2026.102336</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-03-10</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-03-10</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(26)00024-3?rss=yes">
+      <title>Pyroelectric power generator for autonomous systems</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(26)00024-3?rss=yes</link>
+      <description>Song et al. demonstrate a nonlinear pyroelectric generator based on lead scandium tantalate multilayer capacitors with a fast thermodynamic cycle frequency up to 0.2 Hz, achieving a 20-fold power increase and a 400 W L−1 power density. The automatic generator enables driving a communication module and exhibits scalability, offering a practical route to large-scale waste heat recovery.</description>
+      <dc:title>Pyroelectric power generator for autonomous systems</dc:title>
+      <dc:creator>Longfei Song, Ashwath Aravindhan, Junning Li, Youri Nouchokgwe, Moiz Khalil, Fan Ni, Noureddine Bousri, Omar Ramírez, Jérôme Polesel-Maris, Mathieu Gérard, Sebastjan Glinsek, Uros Prah, Olivier Bouton, Tomoyasu Usui, Sakyo Hirose, Veronika Kovacova, Emmanuel Defay</dc:creator>
+      <dc:identifier>10.1016/j.joule.2026.102340</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-03-09</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-03-09</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(26)00004-8?rss=yes">
+      <title>Self-propelled generator for low-grade heat harvesting via metastable Leidenfrost effect</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(26)00004-8?rss=yes</link>
+      <description>The coordinated collection of waste heat and water vapor from thermal power plants is of great value. A self-propelled triple-phase interface generator based on the metastable Leidenfrost effect is proposed, and a water-circulating energy conversion loop is established to extend traditional thermal power plants.</description>
+      <dc:title>Self-propelled generator for low-grade heat harvesting via metastable Leidenfrost effect</dc:title>
+      <dc:creator>Peng Cheng, Chang Zhu, Engui Wang, Ming Yin, Yiqian Wang, Jiangtao Xue, Baokun Zhang, Yang Zou, Zhou Li</dc:creator>
+      <dc:identifier>10.1016/j.joule.2026.102320</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-03-09</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-03-09</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(26)00002-4?rss=yes">
+      <title>A low-temperature strategy to prepare CuInS2 solar cells with efficiency exceeding 12%</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(26)00002-4?rss=yes</link>
+      <description>Efficient CuInS2 solar cells are processed at &lt; 300°C by combining interdigitation of electron-extracting interfaces and sulfur anion-induced gradient phase transformation (S2−-GPT) in an In-rich CuInS2 layer, and an efficiency of 12.28% and open-circuit voltage of 0.83 V are achieved as the so-far highest values among the CuInS2 solar cells prepared at high (530°C–630°C) and low (&lt; 400°C) temperatures since 1993.</description>
+      <dc:title>A low-temperature strategy to prepare CuInS2 solar cells with efficiency exceeding 12%</dc:title>
+      <dc:creator>Wenbo Cao, Chao Dong, Dongxing Kou, Chaofan Zheng, Zhiyang Wan, Longhui Lei, Jiajin Kuang, Yang Wang, Faisal Naveed, Liquan Cheng, Mengqi Jin, Zhaoyang Wang, Yingying Dong, Chong Chen, Mingtai Wang</dc:creator>
+      <dc:identifier>10.1016/j.joule.2026.102318</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-03-06</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-03-06</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(26)00001-2?rss=yes">
+      <title>Universal workflow language and software enable geometric learning and FAIR scientific protocol reporting</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(26)00001-2?rss=yes</link>
+      <description>The universal workflow language is a data format that provides a more accurate representation of scientific procedures than conventional data structures or written language methods. This work uses the format to identify major deficiencies in high-impact, peer-reviewed scientific procedures and to present opportunities in graph learning on process data.</description>
+      <dc:title>Universal workflow language and software enable geometric learning and FAIR scientific protocol reporting</dc:title>
+      <dc:creator>Robert W. Epps, Amanda A. Volk, Robert R. White, Robert Tirawat, Rosemary C. Bramante, Joseph J. Berry</dc:creator>
+      <dc:identifier>10.1016/j.joule.2026.102317</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-03-06</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-03-06</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(26)00003-6?rss=yes">
+      <title>Pushing the performance of inverted CsPbI3 perovskite photovoltaics via grain boundary grooves stitching</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(26)00003-6?rss=yes</link>
+      <description>This study employs HPDA modification to induce oriented 2D HPDAPbI4 phase formation, which effectively stitches CsPbI3 grain boundary grooves and optimizes film quality, enabling inverted PSCs to achieve a high certified PCE of 21.43% and superior stability.</description>
+      <dc:title>Pushing the performance of inverted CsPbI3 perovskite photovoltaics via grain boundary grooves stitching</dc:title>
+      <dc:creator>Liyan Hu, Chenzhe Xu, Haochun Sun, Hongwei Wang, Linkai Yu, Jinhao Yang, Feiyu Cheng, Zhuo Kang, Yue Zhang</dc:creator>
+      <dc:identifier>10.1016/j.joule.2026.102319</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-03-05</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-03-05</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(25)00497-0?rss=yes">
+      <title>Ambient-air fabrication of wide-band-gap perovskites via a dual-functional polymer for all-perovskite tandem solar modules</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(25)00497-0?rss=yes</link>
+      <description>Fabricating high-quality wide-band-gap perovskite solar cells in ambient air is key for commercializing tandem cells but remains challenging. This work introduces a molecularly designed polymer that enables uniform crystallization and moisture protection, achieving record efficiency for cells and modules. It provides a viable pathway toward industrial-scale production of all-perovskite tandem photovoltaics.</description>
+      <dc:title>Ambient-air fabrication of wide-band-gap perovskites via a dual-functional polymer for all-perovskite tandem solar modules</dc:title>
+      <dc:creator>Ruitian Sun, Pengshuai Wang, Xudong Wang, Zhizhong Ge, Xingmao Zhang, Xuxu Sun, Tinghao Tong, Lin Zhang, Fan Li, Hong Liu, Lei Liu, Weijun Liu, Yanjie Wen, Zhenhuang Su, Tao Wang, Xudong Yang</dc:creator>
+      <dc:identifier>10.1016/j.joule.2025.102316</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-03-04</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-03-04</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(25)00496-9?rss=yes">
+      <title>Stabilizing perovskite solar cells via facet-selective molecular engineering</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(25)00496-9?rss=yes</link>
+      <description>This work demonstrates that tris(4-formylphenyl)amine (TFPA) selectively binds (100) facets in FAPbI3, directing growth to stable, face-on (111) facets and generating an extra polaron mode, which yields a 26.4% efficiency and exceptional operational stability.</description>
+      <dc:title>Stabilizing perovskite solar cells via facet-selective molecular engineering</dc:title>
+      <dc:creator>Yi Pan, Xin Chen, Zeyu Zhang, Zeping Ou, Ke Zhao, Bo Zhang, Kun Chen, Nabonswende Aida Nadege Ouedraogo, Zhenhuang Su, Bingchen He, Cheuk Hin Ho, Shanshan Chen, Yujie Zheng, Tingming Jiang, Jianqiang Qin, Juan Du, Xingyu Gao, Rui Wang, Caterina Ducati, Qiang Liao, Kuan Sun</dc:creator>
+      <dc:identifier>10.1016/j.joule.2025.102315</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-03-04</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-03-04</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(25)00495-7?rss=yes">
+      <title>pH modulation for self-assembly-monolayer-type hole transport layer for efficient and stable perovskite-silicon double-junction solar cells</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(25)00495-7?rss=yes</link>
+      <description>This work demonstrates that pH modulation of self-assembled monolayer (SAM) precursor solution successfully suppresses its molecular aggregation. We used this knowledge to design a new molecule for a co-SAM strategy for 1.67 eV perovskite solar cells and perovskite-Si tandems. The champion 1 cm2 tandem cell produced a certified PCE of 29.1%. An encapsulated tandem retains 95% of its efficiency after 1,010 thermal cycles. We also report the first encapsulated perovskite-Si tandem device that surpassed the IEC 61215 humidity freeze test.</description>
+      <dc:title>pH modulation for self-assembly-monolayer-type hole transport layer for efficient and stable perovskite-silicon double-junction solar cells</dc:title>
+      <dc:creator>Runmin Tao, Guoliang Wang, Zhihao Li, Nan Sun, Jueming Bing, Tik Lun Leung, Fraser J. Angus, Jianbo Tang, Chwenhaw Liao, Jianpeng Yi, Christopher Bailey, Li Liu, Yu Wang, Gaosheng Huang, Andreas Lambertz, Songyan Yin, Bin Gong, Alex-Anthony Cavallaro, Drew Evans, Matthew Griffith, Kourosh Kalantar-Zadeh, Jianghui Zheng, Pablo Docampo, David R. McKenzie, Md Arafat Mahmud, Kaining Ding, Anita W.Y. Ho-Baillie</dc:creator>
+      <dc:identifier>10.1016/j.joule.2025.102314</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-03-03</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-03-03</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(25)00494-5?rss=yes">
+      <title>Revealing the influence of the dispersion property of charge transport on the stability of organic solar cells</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(25)00494-5?rss=yes</link>
+      <description>Device stability is crucial for the widespread adoption of organic solar cells (OSCs). We show that the dispersion parameter is another critical factor influencing device stability, yet it is often overlooked. A broader dispersion means more slow-moving carriers, leading to detrimental energy loss. The study demonstrates that the initial morphology of the active layer governs which of these two key transport parameters degrades, providing a new design rule for achieving long-term device stability.</description>
+      <dc:title>Revealing the influence of the dispersion property of charge transport on the stability of organic solar cells</dc:title>
+      <dc:creator>Dongcheng Jiang, Jiangkai Sun, Hao Wang, Zhongwei Ge, Yuang Fu, Jicheng Yi, Bo Cheng, Yuan Meng, Shufen Huang, Sai Ho Pun, Yu Chen, Xinxin Xia, Chengwang Niu, Tao He, Kun Gao, Xinhui Lu, Maojie Zhang, Xiaoyan Du, Feng Chen, Yanming Sun, Xiaotao Hao, He Yan, Hang Yin</dc:creator>
+      <dc:identifier>10.1016/j.joule.2025.102313</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-03-03</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-03-03</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(25)00493-3?rss=yes">
+      <title>Solid-solution phase engineering enables ultrahigh-rate LiFePO4 regeneration from spent batteries</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(25)00493-3?rss=yes</link>
+      <description>Efficient direct recycling of spent LiFePO4 cathode materials is hindered by structural heterogeneity, which limits performance and scalability. This work introduces a solid-solution phase-engineering strategy that overcomes this barrier, enabling universal regeneration of LiFePO4 with ultrahigh-rate capability and stable long-term cycling in practical cells.</description>
+      <dc:title>Solid-solution phase engineering enables ultrahigh-rate LiFePO4 regeneration from spent batteries</dc:title>
+      <dc:creator>Guanjun Ji, Haocheng Ji, Junxiong Wang, Junfeng Li, Nengzhan Zheng, Jiaxiang Zhao, Yanfei Zhu, Song Liu, Jie Tang, Zheng Liang, Hui-Ming Cheng, Guangmin Zhou</dc:creator>
+      <dc:identifier>10.1016/j.joule.2025.102312</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-03-02</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-03-02</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(25)00492-1?rss=yes">
+      <title>Guidelines for correlative imaging and analysis of reactive alkali metal battery materials</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(25)00492-1?rss=yes</link>
+      <description>Reactive alkali metals are central to next-generation batteries, yet their extreme sensitivity has long complicated reliable imaging. This study establishes a unified workflow—from storage to ion-beam milling to electron microscopy—that preserves the native structure and chemistry of lithium and sodium metals and their SEIs. By clarifying when cryogenic conditions are required and identifying dose limits for beam-sensitive phases, the work provides a foundation for reproducible, artifact-free characterization across the battery community.</description>
+      <dc:title>Guidelines for correlative imaging and analysis of reactive alkali metal battery materials</dc:title>
+      <dc:creator>Shuang Bai, Zhao Liu, Diyi Cheng, Bingyu Lu, Nestor J. Zaluzec, Ganesh Raghavendran, Shen Wang, Thomas S. Marchese, Brandon van Leer, Letian Li, Lin Jiang, Adam Stokes, Joseph P. Cline, Rachel Osmundsen, Minda Chen, Paul Barends, Alexander Bright, Minghao Zhang, Ying Shirley Meng</dc:creator>
+      <dc:identifier>10.1016/j.joule.2025.102311</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-03-02</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-03-02</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(25)00486-6?rss=yes">
+      <title>In situ detection and accurate repair of defects in printed flexible perovskite photovoltaics</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(25)00486-6?rss=yes</link>
+      <description>This work proposes a strategy that enhances the reproducibility of large-area perovskite solar cells through in situ defect detection and laser repair, achieving power conversion efficiencies of 25.21% on a 1.01 cm² flexible perovskite solar cell and 17.36% on the corresponding flexible module. It provides both technical and theoretical reference for the commercialization of flexible perovskite photovoltaic devices.</description>
+      <dc:title>In situ detection and accurate repair of defects in printed flexible perovskite photovoltaics</dc:title>
+      <dc:creator>Baojin Fan, Zengqi Huang, Zhaoyang Chu, Zhi Xing, Chenxiang Gong, Xiangchuan Meng, Fengchun Cai, Jing Li, Weinan Shi, Lin Zhang, Hongxiang Li, Qifan Xue, Jixian Xu, Xiaotian Hu, Yiwang Chen</dc:creator>
+      <dc:identifier>10.1016/j.joule.2025.102305</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-02-27</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-02-27</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(25)00483-0?rss=yes">
+      <title>Spatiotemporally coupled lithiotropic framework enables highly reversible and long-life 1,200 Wh L−1 Li-metal pouch cell</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(25)00483-0?rss=yes</link>
+      <description>Spatiotemporally coupled lithiotropic frameworks are proposed by simultaneously constructing a static epitaxial lithiotropic interface, dynamic lithiotropic embedded seeds, and SEIs. This optimizes Li adsorption, migration, and diffusion at plated substrate, bulk phase, and SEI, controlling multi-scale dense Li nucleation and growth tropism and optimizing the reversibility of ultrathin anodes. Such structures effectively improve the rate performance and cycle life of Li-metal batteries, enabling the practical application of &gt;1,200 Wh L−1 miniature high-energy pouch cells in micro-UAVs.</description>
+      <dc:title>Spatiotemporally coupled lithiotropic framework enables highly reversible and long-life 1,200 Wh L−1 Li-metal pouch cell</dc:title>
+      <dc:creator>Qiujiang Dong, Hao Guo, He Huang, Minjie Yao, Hong Zhang, Xingkai Wang, Xinyue Li, Jinyang Li, Wanxing Zhang, Xiaopeng Han, Wenbin Hu</dc:creator>
+      <dc:identifier>10.1016/j.joule.2025.102302</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-02-25</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-02-25</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(25)00477-5?rss=yes">
+      <title>Gel electrolyte featuring parasitic salt-phobic network enables anode-free lithium batteries with long cycle life and enhanced thermal stability</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(25)00477-5?rss=yes</link>
+      <description>Advancing safe and durable lithium batteries requires clearer insight into how electrolytes govern ion behavior. This work demonstrates that rational polymer design can reshape lithium-ion solvation, a largely overlooked lever in battery optimization. By engineering a gel electrolyte that promotes a stable anion-rich environment, the work enables improved cycling stability and thermal stability in anode-free cells. These findings highlight the importance of molecular-level solvation control and offer a practical strategy for next-generation high-energy batteries.</description>
+      <dc:title>Gel electrolyte featuring parasitic salt-phobic network enables anode-free lithium batteries with long cycle life and enhanced thermal stability</dc:title>
+      <dc:creator>Shengyu Cong, Zhenghao Yang, Xuhao Wan, Han Chen, Shiyi Yuan, Zhihao Yang, Yuchen Yang, Tong Wang, Sheng Zhang, Maya Narayanan Nair, Yuzheng Guo, Yuanyuan Ma, Yang Li, Hyunsik Woo, Seung Woo Lee, Yongseok Kim, Yuan Yang</dc:creator>
+      <dc:identifier>10.1016/j.joule.2025.102296</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-02-19</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-02-19</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+   <item rdf:about="https://www.cell.com/joule/fulltext/S2542-4351(25)00478-7?rss=yes">
+      <title>Catalyzed anionic redox in sulfide electrolytes for high-energy all-solid-state organic batteries</title>
+      <link>https://www.cell.com/joule/fulltext/S2542-4351(25)00478-7?rss=yes</link>
+      <description>Chemical reactivity at solid-solid interfaces is typically viewed as detrimental in all-solid-state batteries. This study shows that, when carefully controlled, such reactions can instead catalyze reversible sulfur anionic redox in sulfide electrolytes, dramatically increasing capacity and stability of organic electrode materials in all-solid-state batteries. By identifying the molecular and structural criteria that enable this outer-sphere pathway, the work establishes a new design principle for leveraging interfacial chemistry to enhance the energy density of sustainable all-solid-state battery technologies.</description>
+      <dc:title>Catalyzed anionic redox in sulfide electrolytes for high-energy all-solid-state organic batteries</dc:title>
+      <dc:creator>Qihang Yu, Yang Hu, Sixu Deng, Mohsen Shakouri, Graham King, Lo-Yueh Chang, Karim Zaghib, Tsun-Kong Sham, Xia Li</dc:creator>
+      <dc:identifier>10.1016/j.joule.2025.102297</dc:identifier>
+      <dc:source>Joule (2026)</dc:source>
+      <dc:date>2026-02-18</dc:date>
+      <prism:publicationName>Joule</prism:publicationName>
+      <prism:publicationDate>2026-02-18</prism:publicationDate>
+      <prism:section>Article</prism:section>
+   </item>
+</rdf:RDF>

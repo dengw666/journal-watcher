@@ -1,0 +1,68 @@
+#!/usr/bin/env python3
+"""Journal Watch CLI — auto-bootstraps an external venv on first run."""
+import sys, os, subprocess
+from pathlib import Path
+
+SKILL_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+REQ_FILE = os.path.join(SKILL_DIR, "requirements.txt")
+VENV_ROOT = os.environ.get("OPENCLAW_SKILL_VENV_ROOT", os.path.expanduser("~/.openclaw/venvs"))
+VENV_DIR = os.path.join(VENV_ROOT, "journal-watch")
+VENV_PYTHON = os.path.join(VENV_DIR, "bin", "python3")
+MARKER = os.path.join(VENV_DIR, ".deps_installed")
+
+
+def _bootstrap():
+    """Create external venv and install deps if not already done."""
+    if os.path.exists(MARKER) and os.path.exists(VENV_PYTHON):
+        return
+    print("首次运行，正在初始化外部依赖环境...")
+    Path(VENV_ROOT).mkdir(parents=True, exist_ok=True)
+    if not os.path.exists(VENV_PYTHON):
+        print(f"  创建虚拟环境: {VENV_DIR}")
+        subprocess.check_call([sys.executable, "-m", "venv", VENV_DIR])
+    print("  安装依赖...")
+    subprocess.check_call([VENV_PYTHON, "-m", "pip", "install", "-q", "-r", REQ_FILE])
+    Path(MARKER).write_text("ok\n", encoding="utf-8")
+    print("  环境就绪。\n")
+
+
+def _reexec_in_venv():
+    """If not running inside the external venv, re-exec this script with the venv python."""
+    if os.path.abspath(getattr(sys, 'prefix', '')) == os.path.abspath(VENV_DIR):
+        return
+    os.execv(VENV_PYTHON, [VENV_PYTHON] + sys.argv)
+
+
+# --- Bootstrap ---
+_bootstrap()
+_reexec_in_venv()
+
+# --- Real entry point (runs inside venv) ---
+import argparse, logging
+sys.path.insert(0, SKILL_DIR)
+from src.db import init_db
+from src.app import run_scan, run_backfill
+from src.digest import generate_digest, generate_recent_digest, show_papers
+
+def main():
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s', datefmt='%H:%M:%S')
+    ap = argparse.ArgumentParser(description='Journal Watch')
+    sub = ap.add_subparsers(dest='cmd')
+    p=sub.add_parser('scan'); p.add_argument('--days',type=int,default=2); p.add_argument('--quiet',action='store_true')
+    p=sub.add_parser('backfill'); p.add_argument('--days',type=int,default=3); p.add_argument('--quiet',action='store_true')
+    p=sub.add_parser('digest'); p.add_argument('--date', default=None, help='日期 YYYY-MM-DD，默认今天（北京时间）')
+    p=sub.add_parser('recent'); p.add_argument('--hours', type=int, default=24); p.add_argument('--all', action='store_true', help='包含已推送论文'); p.add_argument('--mark-sent', action='store_true', help='输出后标记为已推送')
+    p=sub.add_parser('show'); p.add_argument('nums', help='论文编号，逗号分隔'); p.add_argument('--date', default=None)
+    sub.add_parser('init')
+    args = ap.parse_args()
+    if   args.cmd=='init':     init_db(); print("DB initialized.")
+    elif args.cmd=='scan':     run_scan(args.days, not args.quiet)
+    elif args.cmd=='backfill': run_backfill(args.days, not args.quiet)
+    elif args.cmd=='digest':   print(generate_digest(args.date))
+    elif args.cmd=='recent':   print(generate_recent_digest(hours=args.hours, only_unnotified=not args.all, mark_sent=args.mark_sent))
+    elif args.cmd=='show':
+        nums = [int(n.strip()) for n in args.nums.split(',') if n.strip().isdigit()]
+        print(show_papers(nums, args.date))
+    else: ap.print_help()
+
+if __name__=='__main__': main()

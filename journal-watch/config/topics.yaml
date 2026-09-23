@@ -1,0 +1,129 @@
+# battery_strict — unified filter for all journals
+# Note: energy storage / grid storage / supercapacitor are broad match terms.
+# If digest noise is too high, comment these out first.
+include_keywords:
+  - battery
+  - batteries
+  - lithium
+  - Li-ion
+  - lithium-ion
+  - lithium metal
+  - lithium metal battery
+  - Li metal
+  - Li metal battery
+  - lithium-sulfur
+  - Li-S battery
+  - sodium-ion
+  - Na-ion
+  - sodium metal
+  - potassium-ion
+  - K-ion
+  - zinc-ion
+  - Zn-ion
+  - aqueous battery
+  - flow battery
+  - redox flow battery
+  - solid-state battery
+  - solid state electrolyte
+  - all-solid-state
+  - anode-free
+  - pouch cell
+  - full cell
+  - coin cell
+  - rechargeable
+  - anode
+  - cathode
+  - electrode
+  - current collector
+  - separator
+  - silicon anode
+  - graphite anode
+  - layered oxide
+  - spinel
+  - olivine
+  - LiFePO4
+  - LFP
+  - NMC
+  - NCA
+  - LiCoO2
+  - high-nickel
+  - Li-rich
+  - oxygen redox
+  - disordered rocksalt
+  - conversion-type
+  - alloying-type
+  - intercalation
+  - dendrite
+  - dendritic
+  - Li dendrite
+  - lithium dendrite
+  - Li plating
+  - lithium plating
+  - Li deposition
+  - lithium deposition
+  - stripping
+  - plating/stripping
+  - dead lithium
+  - inactive lithium
+  - lithium nucleation
+  - electrolyte
+  - catholyte
+  - solvation
+  - desolvation
+  - SEI
+  - CEI
+  - interphase
+  - solid electrolyte interphase
+  - cathode electrolyte interphase
+  - polymer electrolyte
+  - gel electrolyte
+  - ionic liquid
+  - deep eutectic
+  - high-concentration electrolyte
+  - localized high-concentration
+  - LHCE
+  - fluorinated electrolyte
+  - solid electrolyte
+  - sulfide electrolyte
+  - garnet electrolyte
+  - NASICON
+  - ionic conductivity
+  - transference number
+  - electrochemical
+  - coulombic efficiency
+  - cycle life
+  - capacity retention
+  - energy density
+  - power density
+  - fast charging
+  - charge transfer
+  - impedance
+  - prelithiation
+  - dry electrode
+  - energy storage
+  - grid storage
+  - supercapacitor
+exclude_keywords:
+  - solar cell
+  - photovoltaic
+  - perovskite solar
+  - dye-sensitized
+  - DSSC
+  - organic solar
+  - tandem solar
+  - photocatalysis
+  - photocatalytic
+  - photocatalyst
+  - photodegradation
+  - photoelectrochemical
+  - PEC
+  - biosensor
+  - biomedical
+  - drug delivery
+  - microbial fuel cell
+  - biofuel
+  - nuclear fusion
+  - nuclear fission
+  - wind turbine
+  - geothermal
+  - lithium niobate
