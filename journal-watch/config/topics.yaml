@@ -101,8 +101,31 @@ include_keywords:
   - prelithiation
   - dry electrode
   - energy storage
+  - energy storage devices
   - grid storage
   - supercapacitor
+  # 2026-11-06 新增：能源转化类强关键词（配合 filter.py 的强/弱分级规则，
+  # 单个弱关键词不再放行，CO2/氨合成/析氧等须有明确的强关键词才入库）
+  - CO2
+  - carbon dioxide
+  - CO2 reduction
+  - electroreduction
+  - electro-reduction
+  - CO2RR
+  - nitrate reduction
+  - nitrogen reduction
+  - nitrogen fixation
+  - ammonia synthesis
+  - urea synthesis
+  - oxygen evolution
+  - hydrogen evolution
+  - water splitting
+  - electrocatalysis
+  - electrocatalyst
+  - fuel cell
+  - fuel cells
+  - energy harvesting
+  - dielectric
 exclude_keywords:
   - solar cell
   - photovoltaic

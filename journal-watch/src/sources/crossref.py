@@ -39,7 +39,7 @@ def fetch_and_parse(issn: str, days_back: int = 3, rows: int = 100,
     since = (datetime.utcnow() - timedelta(days=days_back)).strftime('%Y-%m-%d')
     try:
         resp = requests.get(f"{BASE}/journals/{issn}/works",
-            params={'filter': f'from-index-date:{since}', 'rows': rows,
+            params={'filter': f'from-pub-date:{since}', 'rows': rows,
                     'sort': 'indexed', 'order': 'desc', 'mailto': mailto},
             headers={'User-Agent': f'JournalWatch/1.0 (mailto:{mailto})'}, timeout=30)
         resp.raise_for_status()
