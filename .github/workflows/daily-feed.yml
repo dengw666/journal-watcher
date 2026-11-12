@@ -1,0 +1,55 @@
+name: Daily literature feed
+
+# Publishes the rolling JSON feed the iOS PDF reader app consumes
+# (raw.githubusercontent.com/dengw666/journal-watcher/main/feed/feed.json).
+# Runs the same scan -> backfill -> recent pipeline as the cloud cron
+# (see journal-watch/NOTES_FOR_CODEX.md), then exports feed.json and the
+# dated snapshot feed/daily-YYYY-MM-DD.json and commits them.
+#
+# No secrets needed: search is RSS + Crossref + keyword filter, no LLM.
+# The DB checked out with the repo is the tracked snapshot
+# (journal-watch/data/journal_watch.db); scan dedups against it and the
+# workflow does not commit it back. The feed is a rolling 3-day window
+# re-derived from the sources each day, so no state needs to persist.
+# The cloud cron (journal-watch-daily-digest) still owns the side-chat
+# digest push; this workflow only publishes the feed.
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 00:00 UTC = 08:00 Beijing, same time as the digest
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/daily-feed.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Scan journals
+        working-directory: journal-watch
+        run: |
+          python3 bin/journal-watch scan --quiet
+          python3 bin/journal-watch backfill --days 3 --quiet
+          python3 bin/journal-watch recent --mark-sent --hours 26
+
+      - name: Export feed JSON
+        run: |
+          python3 export_feed.py --db journal-watch/data/journal_watch.db --out feed/feed.json
+
+      - name: Commit feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feed/feed.json feed/daily-*.json
+          git diff --cached --quiet || git commit -m "Daily literature feed $(date -u +%F)"
+          git push
