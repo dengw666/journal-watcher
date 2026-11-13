@@ -70,6 +70,10 @@ python3 bin/journal-watch recent --mark-sent --hours 26
    - 不要在 App 里直连数据库，不要把 `.db` 文件打进 App。
 3. **点开一篇论文后**
    - 有开放获取 PDF 的，下载进阅读器再翻译；付费墙的只给 DOI 链接和摘要，**不要绕过付费墙下载**。
+4. **feed 现状（2026-11-13，契约 v3，见 `~/workspace/goals/ios-duo/files/feed-contract.md`）**
+   - 导出器 `export_feed.py`（仓库根目录）：入选 = status='notified' 且 discovered 3 天内且发表 3 天内；新刊（`config/journals.yaml` 里 `added_on` 在 7 天内）放宽到发表 45 天内——新加期刊时 RSS 一次带进的几周前综述才进得了 feed；不要改成“发现 3 天内即可”，Actions 运行器每天从快照重建 DB，Joule inpress 几个月前的旧文会被每天重新发现、灌爆 feed（实测 25 篇过过滤、发表超 45 天）。
+   - OA 字段由 Unpaywall 逐篇查询填入（`pdf_url` / `is_open_access`；null = 暂无记录、通常是发表 1–2 天内，不是 closed）；不用 OpenAlex——无 key 的共享 IP 日预算已被别人用完，会 429。Unpaywall 邮箱用仓库主人的 GitHub noreply 地址。
+   - feed 新鲜度有哨兵：每天 09:00（北京时间）定时任务查 `feed/feed.json` 的 `feed_date`，不是当天就向论文旁聊报警（任务 `feed-freshness-watch`）。
 
 ## 七、不要做的事
 
