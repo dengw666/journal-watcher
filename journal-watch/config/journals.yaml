@@ -63,6 +63,27 @@ journals:
     sources:
       - {type: rss, url: "https://www.cell.com/joule/inpress.rss"}
       - {type: rss, url: "https://www.cell.com/joule/current.rss"}
+  - key: energy_environmental_science
+    publisher: rsc
+    journal: Energy & Environmental Science
+    issn: "1754-5692"
+    # RSC deposits year-only pub dates in Crossref, so from-pub-date matches
+    # nothing; use from-created-date instead. Never from-index-date: RSC
+    # re-indexes decades-old papers (2026-10-31 incident). RSS is kept as a
+    # source but Cloudflare truncates it for this host ("Response ended
+    # prematurely"), so backfill is the effective route for EES.
+    crossref_date_filter: from-created-date
+    sources: [{type: rss, url: "https://pubs.rsc.org/en/journals/journalissues/ee?feed=rss"}]
+  - key: nature_nanotechnology
+    publisher: nature
+    journal: Nature Nanotechnology
+    issn: "1748-3387"
+    sources: [{type: rss, url: "https://www.nature.com/nnano.rss"}]
+  - key: nature_reviews_clean_technology
+    publisher: nature
+    journal: Nature Reviews Clean Technology
+    issn: "3005-0685"
+    sources: [{type: rss, url: "https://www.nature.com/nrct.rss"}]
 crossref:
   enabled: true
   base_url: https://api.crossref.org
