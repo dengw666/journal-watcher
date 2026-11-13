@@ -93,7 +93,8 @@ def run_backfill(days_back: int = 3, verbose: bool = True) -> dict:
         jn, pub = jcfg['journal'], jcfg['publisher']
         try:
             papers, err = crossref.fetch_and_parse(issn, days_back=days_back, rows=500, mailto=mailto,
-                journal_override=jn, publisher_override=pub)
+                journal_override=jn, publisher_override=pub,
+                date_filter=jcfg.get('crossref_date_filter', 'from-pub-date'))
             if err:
                 s['errors'].append(f"{jn}: {err}")
                 if verbose: print(f"  x {jn}: {err}")
