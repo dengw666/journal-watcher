@@ -67,6 +67,7 @@ journals:
     publisher: rsc
     journal: Energy & Environmental Science
     issn: "1754-5692"
+    added_on: 2026-11-13
     # RSC deposits year-only pub dates in Crossref, so from-pub-date matches
     # nothing; use from-created-date instead. Never from-index-date: RSC
     # re-indexes decades-old papers (2026-10-31 incident). RSS is kept as a
@@ -78,11 +79,13 @@ journals:
     publisher: nature
     journal: Nature Nanotechnology
     issn: "1748-3387"
+    added_on: 2026-11-13
     sources: [{type: rss, url: "https://www.nature.com/nnano.rss"}]
   - key: nature_reviews_clean_technology
     publisher: nature
     journal: Nature Reviews Clean Technology
     issn: "3005-0685"
+    added_on: 2026-11-13
     sources: [{type: rss, url: "https://www.nature.com/nrct.rss"}]
 crossref:
   enabled: true
