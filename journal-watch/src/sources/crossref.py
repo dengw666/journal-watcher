@@ -8,7 +8,19 @@ BASE = "https://api.crossref.org"
 PARSER = "crossref_v1"
 
 def _best_date(item: dict) -> datetime | None:
-    for key in ('published-online', 'published-print', 'issued', 'created'):
+    # Prefer a full-precision date (year+month+day). Some publishers deposit
+    # year-only dates in published-online/issued (e.g. RSC: EES papers carry
+    # published-online [[2026]]), which normalize_date would turn into Jan 1
+    # and then fall out of the feed's 3-day pub-date window. Fall through to
+    # `created` in that case; only use a year-only date if nothing better
+    # exists at all.
+    keys = ('published-online', 'published-print', 'issued', 'created')
+    for key in keys:
+        parts = item.get(key, {}).get('date-parts')
+        if parts and len(parts[0]) >= 3:
+            dt = parse_iso(normalize_date(parts))
+            if dt: return dt
+    for key in keys:
         parts = item.get(key, {}).get('date-parts')
         if parts:
             dt = parse_iso(normalize_date(parts))
@@ -34,12 +46,17 @@ def parse_item(item: dict, journal: str = "Unknown", publisher: str = "") -> Pap
 def fetch_and_parse(issn: str, days_back: int = 3, rows: int = 100,
                     mailto: str = "your@example.com",
                     journal_override: str = None,
-                    publisher_override: str = None) -> tuple[list[PaperCandidate], str | None]:
-    """Returns (papers, error)."""
+                    publisher_override: str = None,
+                    date_filter: str = 'from-pub-date') -> tuple[list[PaperCandidate], str | None]:
+    """Returns (papers, error). date_filter is normally 'from-pub-date';
+    journals whose publisher deposits year-only pub dates (RSC: EES) must
+    use 'from-created-date' instead, because from-pub-date matches nothing
+    for them. Never use 'from-index-date': RSC re-indexes decades-old papers,
+    which floods the DB with ancient items (2026-10-31 incident)."""
     since = (datetime.utcnow() - timedelta(days=days_back)).strftime('%Y-%m-%d')
     try:
         resp = requests.get(f"{BASE}/journals/{issn}/works",
-            params={'filter': f'from-pub-date:{since}', 'rows': rows,
+            params={'filter': f'{date_filter}:{since}', 'rows': rows,
                     'sort': 'indexed', 'order': 'desc', 'mailto': mailto},
             headers={'User-Agent': f'JournalWatch/1.0 (mailto:{mailto})'}, timeout=30)
         resp.raise_for_status()
