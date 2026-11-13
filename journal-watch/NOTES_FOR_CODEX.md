@@ -4,7 +4,7 @@
 
 ## 一、这是什么
 
-- 这是「每日论文速递」的工具链：每天扫描 13 本期刊（Nature、Science、JACS、Joule、Nature Energy 等）的电池/能源材料新论文，过滤后推送到用户的论文旁聊。
+- 这是「每日论文速递」的工具链：每天扫描 15 本期刊（Nature、Science、JACS、Joule、Nature Energy、Energy & Environmental Science、Nature Nanotechnology、Nature Reviews Clean Technology 等）的电池/能源材料新论文，过滤后推送到用户的论文旁聊。
 - 来源：OpenClaw skill（journal watch），2026-09-24 转成云电脑上的定时任务。
 - 链路：RSS / Crossref 抓取 → 关键词过滤 → SQLite 入库去重 → 每天 08:00 推送新增。
 - 仓库：github.com/dengw666/journal-watcher（main 分支）。本地工作目录在云电脑 `~/workspace/journal-watch/journal-watch`。
@@ -35,6 +35,8 @@ python3 bin/journal-watch recent --mark-sent --hours 26
    - `Nature Energy` 是全收（`PASSTHROUGH_JOURNALS`），不走关键词过滤。
 2. **Crossref 回填按发表日期过滤（2026-11-01 修的 bug）**
    - `src/sources/crossref.py` 用的是 `from-pub-date`，之前错写成 `from-index-date` 会漏论文。不要改回去。
+   - 例外：Energy & Environmental Science 在 `config/journals.yaml` 里配了 `crossref_date_filter: from-created-date`，因为 RSC 在 Crossref 里只存年份精度（`published-online [[2026]]`），`from-pub-date` 对它返回 0 条；`from-index-date` 也不能用，RSC 会重索引几十年前的旧论文（2026-10-31 的 166 篇事故就是这么来的）。
+   - `_best_date` 优先取年月日齐全的日期字段（RSC 的 `published-online` 只有年份时 fallback 到 `created`），否则 EES 的 `published_online` 会变成当年 1 月 1 日，掉出 feed 的 3 天发表日期窗口，进不了 App 的 feed。
 3. **回填一次拉 500 条（`src/app.py` 里 `rows=500`）**
    - Nat Commun 3 天总量约 143 条，`rows=100` 会被截断漏论文。
 4. **评论类文章要核查被评的原论文**
