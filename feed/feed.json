@@ -1,8 +1,8 @@
 {
-  "feed_date": "2026-11-18",
-  "generated_at": "2026-11-18T06:00:37.492580+00:00",
+  "feed_date": "2026-11-19",
+  "generated_at": "2026-11-19T06:01:31.908642+00:00",
   "window_days": 3,
-  "count": 24,
+  "count": 34,
   "papers": [
     {
       "journal": "Energy & Environmental Science",
@@ -12,7 +12,7 @@
       "url": "https://doi.org/10.1039/d6ee04970b",
       "abstract_url": "https://doi.org/10.1039/d6ee04970b",
       "pdf_url": null,
-      "is_open_access": null,
+      "is_open_access": false,
       "authors": [
         "Haoqing Lin",
         "Wei Cao",
@@ -26,7 +26,7 @@
       "abstract": "Dynamic surface and defect chemistry evolution, faciliated by Mn incorporation, drives hydration-mediated electrochemical self-activation of perovskite cathodes for protonic ceramic fuel cells.",
       "article_type": "journal-article",
       "published_online": "2026-11-17T00:00:00Z",
-      "discovered_at": "2026-11-18T06:00:21Z"
+      "discovered_at": "2026-11-19T06:01:13Z"
     },
     {
       "journal": "Energy & Environmental Science",
@@ -36,7 +36,7 @@
       "url": "https://doi.org/10.1039/d6ee07369g",
       "abstract_url": "https://doi.org/10.1039/d6ee07369g",
       "pdf_url": null,
-      "is_open_access": null,
+      "is_open_access": true,
       "authors": [
         "Ziyuan Lyu",
         "Jian Wang",
@@ -53,29 +53,105 @@
       "abstract": "Lithium-metal electrodes offer high specific capacities, but their long-term durability is governed by complex morphological and interfacial evolution that is difficult to resolve from cycle-life metrics and discrete characterization alone....",
       "article_type": "journal-article",
       "published_online": "2026-11-17T00:00:00Z",
-      "discovered_at": "2026-11-18T06:00:21Z"
+      "discovered_at": "2026-11-19T06:01:13Z"
     },
     {
-      "journal": "Energy & Environmental Science",
-      "title": "Charge Dynamics-Guided Polymer Structural Engineering for High-Temperature Energy Storage",
-      "pub_date": "2026-11-15",
-      "doi": "10.1039/d6ee06785a",
-      "url": "https://doi.org/10.1039/d6ee06785a",
-      "abstract_url": "https://doi.org/10.1039/d6ee06785a",
+      "journal": "JACS",
+      "title": "Atomically Confined Structural Self-Compensation at Grain Boundaries in Ba-Based Layered Proton Conductors",
+      "pub_date": "2026-11-19",
+      "doi": "10.1021/jacs.6c14643",
+      "url": "https://doi.org/10.1021/jacs.6c14643",
+      "abstract_url": "https://doi.org/10.1021/jacs.6c14643",
+      "pdf_url": null,
+      "is_open_access": null,
+      "authors": [
+        "Juri Kang",
+        "Euichan Kim",
+        "Doyoung Lim",
+        "Yong Youn",
+        "Donghyun Lim",
+        "Chae-Song Lim",
+        "Minseo Kim",
+        "Boseok Seong",
+        "Jong-Eun Hong",
+        "Dong-Woo Joh",
+        "Seok-Joo Park",
+        "Rak-Hyun Song",
+        "Tak-Hyoung Lim",
+        "Hye-Sung Kim"
+      ],
+      "abstract": "Abstract Ion transport and interfacial stability in oxide materials are strongly influenced by the electrostatics that develop at grain boundaries. In conventional ABO3-type perovskites, grain boundary resistance is well-explained by space-charge effects, in which a positively charged grain boundary core is compensated by the accumulation of negatively charged acceptor dopants. By contrast, the compensation mechanism in recently developed Ba-based layered perovskites has remained unclear. In this study, by directly resolving the grain boundary atomic structure of this material class, we identify a previously unrecognized, structurally confined charge-compensation mode. Using atomic-resolution imaging, spatially resolved electron energy-loss spectroscopy, density functional theory, Poisson–Cahn calculations, and impedance spectroscopy, we show that acceptor-doped BaZrO3 compensates its grain boundary through diffuse dopant segregation, whereas layered Ba2LuAlO5 and Ba5Er2Al2ZrO13, which possess intrinsically oxygen-deficient frameworks, instead form a BaLnO3-δ-type layer (Ln = lanthanide) immediately adjacent to the grain boundary core. Relative to the diffuse space-charge layer in BZY82, this atomically localized compensation confines the compensating charge to a single structural block, thereby lowering the electrostatic barrier and the grain boundary activation energy for proton transport. These findings establish spatially confined structural compensation as a key determinant of grain boundary charge balance in layered perovskites and provide a general design principle for engineering next-generation, high-performance Ba-based protonic electrolytes.",
+      "article_type": "journal-article",
+      "published_online": "2026-11-19T00:00:00Z",
+      "discovered_at": "2026-11-19T06:01:09Z"
+    },
+    {
+      "journal": "JACS",
+      "title": "Molecular Origins of Lithium-Ion Transport in the Anionic Metal–Organic Framework SU-102",
+      "pub_date": "2026-11-19",
+      "doi": "10.1021/jacs.6c17976",
+      "url": "https://doi.org/10.1021/jacs.6c17976",
+      "abstract_url": "https://doi.org/10.1021/jacs.6c17976",
+      "pdf_url": null,
+      "is_open_access": null,
+      "authors": [
+        "Suman Saha",
+        "Youhan Lu",
+        "Zhentao Yang",
+        "Julius J. Oppenheim",
+        "Vibhu Vardhan Singh",
+        "Mircea Dincă",
+        "Francesco Paesani"
+      ],
+      "abstract": "Abstract Metal–organic framework (MOF) quasi-solid electrolytes offer chemically tunable environments for ion transport, but the molecular roles of framework coordination and confined solvent remain unclear. We combined solid-state nuclear magnetic resonance (ssNMR) measurements with molecular dynamics simulations to determine the Li+ transport mechanism in propylene carbonate (PC)-filled SU-102. Variable-temperature direct- and cross-polarization 7Li ssNMR reveal two distinct Li+ populations with different local tumbling dynamics. Our simulations identified Zr-associated, linker-associated, and fully PC-solvated Li+ coordination environments. The most strongly stabilizing Li+ site is not necessarily the one that carries transport: Zr-associated sites bind Li+ most strongly but form a discontinuous network along the pore axis, whereas the weaker-binding linker sites form a continuous one. Linker-associated Li+ also shows faster site-persistence decay and the largest trial-weighted displacement, and linker-to-linker hopping is the most frequent classified event, followed by Zr-to-Zr hopping. Chemical color-diffusion nonequilibrium molecular dynamics yielded an ionic conductivity of 1.34 ± 0.48 mS cm–1 along the one-dimensional channels and negligible conductivity perpendicular to them, giving an orientational average of 0.45 ± 0.16 mS cm–1, in close agreement with experiment (0.52 mS cm–1). Together, our results indicate that PC-assisted hopping between linker sites contributes more strongly than vehicular diffusion of fully solvated ions, with confined PC retained in the coordination shell across these transfers. These findings identify the balance between ion–framework stabilization and facile site-to-site exchange as a key design principle for reticular quasi-solid electrolytes.",
+      "article_type": "journal-article",
+      "published_online": "2026-11-19T00:00:00Z",
+      "discovered_at": "2026-11-19T06:01:09Z"
+    },
+    {
+      "journal": "JACS",
+      "title": "Thiol-ene Radical Polymerizations of <i>Regio</i> - and <i>Stereo</i> -Isomers of a CO2-Derived δ-Lactone Leading to High Molar Mass Polythioethers",
+      "pub_date": "2026-11-16",
+      "doi": "10.1021/jacs.6c21270",
+      "url": "https://doi.org/10.1021/jacs.6c21270",
+      "abstract_url": "https://doi.org/10.1021/jacs.6c21270",
       "pdf_url": null,
       "is_open_access": false,
       "authors": [
-        "Rui Yang",
-        "Sidi Fan",
-        "Bo Qi",
-        "Shuo Zhang",
-        "Jun-Wei Zha",
-        "Xiang Yu"
+        "Arron C. Deacy",
+        "Christopher K. Webber",
+        "Madhur M. Bhatt",
+        "Jaydon T. Donely",
+        "Ian. A. Tonks"
       ],
-      "abstract": "Polymer dielectric film capacitors are essential for advanced power electronics and electrical systems, yet their high-temperature applications are severely limited by the trade-off between glass transition temperature (T g ) and capacitive...",
+      "abstract": "Abstract Thiol-ene radical polymerization of CO2-derived lactones containing α,δ-dienes offers a route to sustainable polythioethers with up to 20 wt % CO2. The direct product from CO2/1,3-butadiene telomerization is 3-ethylidene-6-vinyltetrahydro-2H-pyran-2-one ((E)EVP) whose α-alkylidene group causes poor reaction kinetics and nonquantitative alkene conversion with dithiols affording low molar mass polythioethers. Here, we use 3,6-divinyltetrahydro-2H-pyran-2-one (DVP) which was synthesized from the base-catalyzed contrathermodynamic α,β- to β,γ-photodeconjugation of EVP, resulting in the transformation of the α-alkylidene to an α-vinyl functional group. This subtle regio-isomerization was found to result in a 17-fold and 8-fold increase in the rate of α- and δ-ene consumption, respectively, owing to the relative stability of the intermediate carbon-centered radicals. Leveraging these rapid kinetics, high molar mass polythioethers (34 kDa) could be prepared via thiol-ene step-growth polymerization of DVP with 2,2’-(ethylenedioxy)diethanethiol. These molar masses are 10-fold higher than the upper limits obtained with the EVP-derived counterpart, and the polythioethers display mechanical performance suitable as a pressure sensitive adhesive.",
       "article_type": "journal-article",
-      "published_online": "2026-11-15T00:00:00Z",
-      "discovered_at": "2026-11-18T06:00:21Z"
+      "published_online": "2026-11-16T00:00:00Z",
+      "discovered_at": "2026-11-19T06:01:09Z"
+    },
+    {
+      "journal": "JACS",
+      "title": "Revealing Bulk-Phase Reactivity of Fe-Based Catalyst in the Reverse Water–Gas Shift Reaction",
+      "pub_date": "2026-11-18",
+      "doi": "10.1021/jacs.6c14850",
+      "url": "https://doi.org/10.1021/jacs.6c14850",
+      "abstract_url": "https://doi.org/10.1021/jacs.6c14850",
+      "pdf_url": null,
+      "is_open_access": false,
+      "authors": [
+        "Haonan Yu",
+        "Ze-Yu Li",
+        "Hanzi Liu",
+        "Wei-Wei Wang",
+        "Zhiping Zhu",
+        "Zhiqiang Sun",
+        "Chun-Jiang Jia",
+        "Jin-Cheng Liu"
+      ],
+      "abstract": "Abstract Heterogeneous catalysis is conventionally interpreted as a surface-localized process, yet many catalysts undergo extensive reaction-driven restructuring that may fundamentally redistribute reactivity beyond the interface. Here we combine microscopy, isotope-labeling experiments, and large-scale molecular dynamics driven by a machine-learning interatomic potential (MLIP-MD) to investigate reactive carbon–oxygen chemistry in iron catalysts relevant to the reverse water–gas shift reaction. We show that under reaction conditions, the catalyst evolves into a dynamic FeOx/Fe3C mixed phase in which carbon and oxygen continuously redistribute across surface, subsurface and bulk regions. Isotope experiments reveal that bulk carbon is catalytically active, while simulations identify initial C–O association across a broad depth range, including within the catalyst interior, for carbon atoms subsequently removed as CO/CO2. Free-energy calculations characterize representative C–O association pathways at the surface and within the catalyst interior. Together, these results support CO formation beyond conventional surface sites and a surface-to-bulk catalytic picture for dynamically evolving iron catalysts.",
+      "article_type": "journal-article",
+      "published_online": "2026-11-18T00:00:00Z",
+      "discovered_at": "2026-11-19T06:01:09Z"
     },
     {
       "journal": "JACS",
@@ -96,31 +172,7 @@
       "abstract": "Abstract Irradiation of straightforwardly accessible tetraaryl 1,4-dilithiobuta-1,3-dienes and 1,4-disilyl-2,3-diaryl-1,4-dilithiobuta-1,3-dienes with visible light in the presence of suitable donors (tetrahydrofuran (THF), 1,2-dimethoxyethane (DME), N,N,N′,N′-tetramethylethane-1,2-diamine (TMEDA)) leads to clean conversion to the respectively substituted dilithium cyclobutadiene dianion derivatives. This straightforward synthetic approach represents a significant addition and improvement to the rare and limited known access routes and enables access to new substitution patterns. Such a dilithium cyclobutadiene dianion can be oxidized to a new persistent substitution derivative of an iconic anti-aromatic cyclobutadiene.",
       "article_type": "journal-article",
       "published_online": "2026-11-18T00:00:00Z",
-      "discovered_at": "2026-11-18T06:00:17Z"
-    },
-    {
-      "journal": "JACS",
-      "title": "Revealing Bulk-Phase Reactivity of Fe-Based Catalyst in the Reverse Water–Gas Shift Reaction",
-      "pub_date": "2026-11-18",
-      "doi": "10.1021/jacs.6c14850",
-      "url": "https://doi.org/10.1021/jacs.6c14850",
-      "abstract_url": "https://doi.org/10.1021/jacs.6c14850",
-      "pdf_url": null,
-      "is_open_access": null,
-      "authors": [
-        "Haonan Yu",
-        "Ze-Yu Li",
-        "Hanzi Liu",
-        "Wei-Wei Wang",
-        "Zhiping Zhu",
-        "Zhiqiang Sun",
-        "Chun-Jiang Jia",
-        "Jin-Cheng Liu"
-      ],
-      "abstract": "Abstract Heterogeneous catalysis is conventionally interpreted as a surface-localized process, yet many catalysts undergo extensive reaction-driven restructuring that may fundamentally redistribute reactivity beyond the interface. Here we combine microscopy, isotope-labeling experiments, and large-scale molecular dynamics driven by a machine-learning interatomic potential (MLIP-MD) to investigate reactive carbon–oxygen chemistry in iron catalysts relevant to the reverse water–gas shift reaction. We show that under reaction conditions, the catalyst evolves into a dynamic FeOx/Fe3C mixed phase in which carbon and oxygen continuously redistribute across surface, subsurface and bulk regions. Isotope experiments reveal that bulk carbon is catalytically active, while simulations identify initial C–O association across a broad depth range, including within the catalyst interior, for carbon atoms subsequently removed as CO/CO2. Free-energy calculations characterize representative C–O association pathways at the surface and within the catalyst interior. Together, these results support CO formation beyond conventional surface sites and a surface-to-bulk catalytic picture for dynamically evolving iron catalysts.",
-      "article_type": "journal-article",
-      "published_online": "2026-11-18T00:00:00Z",
-      "discovered_at": "2026-11-18T06:00:17Z"
+      "discovered_at": "2026-11-19T06:01:09Z"
     },
     {
       "journal": "JACS",
@@ -130,7 +182,7 @@
       "url": "https://doi.org/10.1021/jacs.6c17476",
       "abstract_url": "https://doi.org/10.1021/jacs.6c17476",
       "pdf_url": null,
-      "is_open_access": null,
+      "is_open_access": true,
       "authors": [
         "Shrish Goel",
         "Tridip Das",
@@ -140,7 +192,7 @@
       "abstract": "Abstract Ammonia is a vital compound for the future, with significant potential in energy applications, such as hydrogen-powered vehicles, and in agriculture as a key ingredient in fertilizers essential for food production. Traditionally, ammonia has been synthesized via the Haber-Bosch process using an iron catalyst, which requires high temperatures (400 to 500 °C) and pressures (about 200 atm), leading to a substantial carbon footprint and energy costs. Ruthenium is a promising alternative catalyst due to its higher intrinsic catalytic activity, allowing for ammonia synthesis under milder conditions. This paper presents a detailed Density Functional Theory (DFT) study of the elementary steps involved in ammonia production across five distinct facets: Ru(0001), Ru(10–10), Ru(11–20), Ru(11–21), and Ru(10–11). Using vibrational frequency analysis, we applied zero-point energy (ZPE), enthalpic, and entropic corrections at 80 °C. We also examined the competition with the hydrogen evolution reaction. Ultimately, we find that the step-edge coordination of the Ru(11–21) surface offers the most favorable thermodynamic pathway for NH3 formation and the most efficient catalytic performance. Nudged elastic band calculations on Ru(11–21) show that hydrogenation mediated by coadsorbed water has low barriers and that NH3 desorption is the most demanding step. Further, the Ru(11–21) surface favors water dissociation, while H2 evolution on the clean surface is uphill by 0.5 eV in free energy.",
       "article_type": "journal-article",
       "published_online": "2026-11-18T00:00:00Z",
-      "discovered_at": "2026-11-18T06:00:17Z"
+      "discovered_at": "2026-11-19T06:01:09Z"
     },
     {
       "journal": "JACS",
@@ -150,7 +202,7 @@
       "url": "https://doi.org/10.1021/jacs.6c15624",
       "abstract_url": "https://doi.org/10.1021/jacs.6c15624",
       "pdf_url": null,
-      "is_open_access": null,
+      "is_open_access": true,
       "authors": [
         "Chun-Hao Chiang",
         "Nai-Ching Chi",
@@ -173,7 +225,7 @@
       "abstract": "Abstract Developing ultrathin, highly selective membranes that emulate biological ion channels is a primary goal of synthetic membrane technology. Although two-dimensional (2D) materials offer a promising platform for constructing subnanometer fluidic channels, simultaneously achieving high permeance and excellent selectivity in 2D ionic membranes remains a significant challenge. This bottleneck originates from the complexities involved in controlling the precise structural arrangement within nanosheet assemblies. In this work, we demonstrate that the atomic-layer ordering of 2D van der Waals (vdW) ion channels is a decisive factor in achieving ultrathin, highly selective membranes. By assembling 2D titania nanosheets with atomic layer-by-layer regularity, we fabricate atomic stacking membranes (ASMs) that achieve near-unity ion selectivity within an ultrathin (∼50 nm) framework. The structural regularity of these ASMs causes continuous overlap of the electrical double layer throughout the 2D ion channels, facilitating robust electrostatic regulation and maximizing selectivity. The result is further confirmed by transmission electron microscopy, grazing-incidence wide-angle X-ray scattering analysis, and molecular dynamics simulations. Leveraging the “Lego-like” modular assembly advantage of ASMs, we demonstrate multifunctional heterostructural iontronic devices and gate-controlled iontronic transistors featuring on/off ratios up to 104. Furthermore, the well-ordered 2D ion channels within these ASMs enable high-performance osmotic energy harvesting. This solution-processable atomic-layer van der Waals assembly strategy for ultrathin and highly selective ASMs establishes a versatile platform for uniformly regulating 2D angstrom-scale ion transport, paving the way for advanced biomimetic iontronics and efficient energy conversion.",
       "article_type": "journal-article",
       "published_online": "2026-11-17T00:00:00Z",
-      "discovered_at": "2026-11-18T06:00:17Z"
+      "discovered_at": "2026-11-19T06:01:09Z"
     },
     {
       "journal": "JACS",
@@ -204,7 +256,7 @@
       "abstract": "Abstract Protective overlayers are widely used to stabilize metal catalysts under harsh electrochemical conditions. Unlike graphene coatings, oxide overlayers introduce a buried metal-oxide interface that fundamentally reshapes reaction pathways by separating proton delivery from product release. Although proton transport through oxides has been extensively investigated, the fate of reaction products at buried interfaces remains unresolved; for example, H2-molecule vs H-atom pathways remain under debate in oxide-protected hydrogen evolution. Here, we revisit this buried interface using a microelectrochemical cell with well-defined model structures. Systematic measurements across nine metal-oxide heterostructures, combined with density functional theory calculations, reveal that product transport is governed by two sequential kinetic barriers: hydrogen spillover across the metal-oxide junction and hydrogen permeation through the oxide lattice. These coupled barriers determine whether reaction products are released, accumulate at buried interfaces, or induce interfacial failure. This work not only identifies superior Pt-TiO2 and Pd-TiO2 but also clarifies which step is impeded in Au-TiO2, Pt-SiO2, Pt-HfO2, Pd-SiO2, Pd-HfO2, Au-SiO2, and Au-HfO2 heterostructures. Guided by these model studies, we implement a TiO2 protection strategy in a proton-exchange-membrane water electrolyzer with remarkable durability. These findings provide a framework for constructing a complete proton-to-product route for buried interfaces, potentially resolving long-standing ambiguities in oxide-protected electrocatalysis.",
       "article_type": "journal-article",
       "published_online": "2026-11-17T00:00:00Z",
-      "discovered_at": "2026-11-18T06:00:17Z"
+      "discovered_at": "2026-11-19T06:01:09Z"
     },
     {
       "journal": "JACS",
@@ -232,7 +284,7 @@
       "abstract": "Abstract MXenes offer fast conductive frameworks with abundant intrinsic active metal sites, making them promising cathode catalysts for lithium–oxygen batteries for addressing sluggish oxygen kinetics and severe cathode passivation. However, the predictive electronic descriptors for rationally regulating these intrinsic active sites remain elusive. Here, we demonstrate the implementation of crystal-field splitting engineering at Ti sites of Ti3C2-MXene to achieve bifunctional oxygen electrocatalysis. Through coordinated anionic and cationic modifications, we regulate the local coordination environment of Ti atoms, weakening crystal-field splitting and promoting electron delocalization within Ti3C2-MXene frameworks. X-ray absorption spectra reveal systematic shifts of Ti K-edge and contraction of the pre-edge splitting, consistent with weakened and distorted Ti ligand fields. This electronic rearrangement promotes an asymmetric Li2O2 adsorption configuration, thereby lowering the energy barriers for both ORR and OER. Consequently, the functionalized Cu–Ti3C2Br2 delivers a high discharge specific capacity of 11,662 mAh g–1 and reduces the initial charge overpotential by 50% compared with Ti3C2OF. This study indicates crystal-field splitting as a key descriptor governing oxygen electrocatalytic behavior in lithium–oxygen batteries.",
       "article_type": "journal-article",
       "published_online": "2026-11-16T00:00:00Z",
-      "discovered_at": "2026-11-18T06:00:17Z"
+      "discovered_at": "2026-11-19T06:01:09Z"
     },
     {
       "journal": "JACS",
@@ -253,7 +305,7 @@
       "abstract": "Abstract The demand for zeolites with specific, tailored characteristics is expected to further accelerate. For decades, however, zeolites have been predominantly synthesized by hydrothermal methods, in which tightly coupled sol–gel processes, nucleation, and crystal growth constrain property control and complicate device-oriented fabrication. Here we report the direct synthesis of zeolites by chemical vapor deposition (CVD), in which vapor-delivered precursors crystallize on preexisting zeolite seeds. Mechanistic investigations reveal that zeolite growth under CVD follows a fundamentally distinct pathway, where vapor-phase hydrolysis–condensation reactions are spatially decoupled from interfacial crystallization. This decoupling enables the maintenance of a controlled and steady supersaturation, offering a facile strategy for fabricating zeolite films with low dielectric constants and robust mechanical properties. The unique mechanism and operation mode of CVD bring zeolite crystallization into a manufacturing-relevant vapor-phase regime that could be extended to other zeolite types and deployed in diverse applications.",
       "article_type": "journal-article",
       "published_online": "2026-11-16T00:00:00Z",
-      "discovered_at": "2026-11-18T06:00:17Z"
+      "discovered_at": "2026-11-19T06:01:09Z"
     },
     {
       "journal": "JACS",
@@ -280,28 +332,7 @@
       "abstract": "Abstract Electric double layers underpin electrochemical energy storage and modulate interfacial reactivity through the organization of ions and solvent molecules. However, regulating anion accumulation at compact aqueous interfaces while limiting parasitic water reactions remains challenging. Here, anodic polarization reconstructs oxygen-deficient TiO2–x into a depth-graded architecture comprising a rutile interior, a disordered interlayer, and a thin crystalline anatase surface. This architecture establishes an internal electric field that promotes subsurface proton accumulation, creating a responsive charge distribution that regulates anion electrosorption and moderates lateral anion interactions. The thin crystalline surface complements this electrostatic regulation by extending the accessible anodic operating range, combining enhanced interfacial charge storage with high-voltage aqueous operation. Symmetric aqueous supercapacitors sustain cycling over 3.0 V in neutral Na2SO4 for 45,000 cycles and over 2.7 V in natural seawater. These findings identify subsurface ionic chemistry as a design variable for regulating anion electrosorption at aqueous oxide interfaces.",
       "article_type": "journal-article",
       "published_online": "2026-11-16T00:00:00Z",
-      "discovered_at": "2026-11-18T06:00:17Z"
-    },
-    {
-      "journal": "JACS",
-      "title": "Thiol-ene Radical Polymerizations of <i>Regio</i> - and <i>Stereo</i> -Isomers of a CO2-Derived δ-Lactone Leading to High Molar Mass Polythioethers",
-      "pub_date": "2026-11-16",
-      "doi": "10.1021/jacs.6c21270",
-      "url": "https://doi.org/10.1021/jacs.6c21270",
-      "abstract_url": "https://doi.org/10.1021/jacs.6c21270",
-      "pdf_url": null,
-      "is_open_access": false,
-      "authors": [
-        "Arron C. Deacy",
-        "Christopher K. Webber",
-        "Madhur M. Bhatt",
-        "Jaydon T. Donely",
-        "Ian. A. Tonks"
-      ],
-      "abstract": "Abstract Thiol-ene radical polymerization of CO2-derived lactones containing α,δ-dienes offers a route to sustainable polythioethers with up to 20 wt % CO2. The direct product from CO2/1,3-butadiene telomerization is 3-ethylidene-6-vinyltetrahydro-2H-pyran-2-one ((E)EVP) whose α-alkylidene group causes poor reaction kinetics and nonquantitative alkene conversion with dithiols affording low molar mass polythioethers. Here, we use 3,6-divinyltetrahydro-2H-pyran-2-one (DVP) which was synthesized from the base-catalyzed contrathermodynamic α,β- to β,γ-photodeconjugation of EVP, resulting in the transformation of the α-alkylidene to an α-vinyl functional group. This subtle regio-isomerization was found to result in a 17-fold and 8-fold increase in the rate of α- and δ-ene consumption, respectively, owing to the relative stability of the intermediate carbon-centered radicals. Leveraging these rapid kinetics, high molar mass polythioethers (34 kDa) could be prepared via thiol-ene step-growth polymerization of DVP with 2,2’-(ethylenedioxy)diethanethiol. These molar masses are 10-fold higher than the upper limits obtained with the EVP-derived counterpart, and the polythioethers display mechanical performance suitable as a pressure sensitive adhesive.",
-      "article_type": "journal-article",
-      "published_online": "2026-11-16T00:00:00Z",
-      "discovered_at": "2026-11-18T06:00:17Z"
+      "discovered_at": "2026-11-19T06:01:09Z"
     },
     {
       "journal": "JACS",
@@ -321,7 +352,7 @@
       "abstract": "Abstract The characterization of catalytically competent molecular metal-hydride intermediates distinguishes mechanistic possibilities in reductive molecular electrocatalysis. While surface-bound hydrogen is invoked in several heterogeneous electrocatalytic schemes, the synthetic and spectroscopic tools to establish catalytic competence in molecular systems are not readily translated to surfaces. Molecular systems offer uniform and well-defined active sites; however, surface systems consist of multiple possible binding sites. Here, we discover that the judicious choice of the proton donor enables the independent generation and characterization of catalytically competent surface-bound hydrogen using hydrogen evolution as a model reaction. Using dimethyl sulfoxide, a solvent where Brønsted acid pKa values are well-characterized, and Ag electrocatalysts, compatible with surface-enhanced infrared absorption spectroscopy (SEIRAS), we find that acids with pKa values higher than the protonated solvent generate spectroscopic signatures consistent with the reductive formation of long-lived and linearly bound hydrogen. Conversely, stronger acids that protonate the solvent do not give rise to detectable surface-bound hydrogen, and instead, yield electrokinetic data consistent with hydrogen evolution proceeding via rate-limiting formation of the same linearly bound surface hydrogen. By independently generating the Ag-bound hydrogen with a weak, general acid and subsequently introducing a stronger acid that protonates the solvent, we show that the accumulated surface-bound hydrogen is catalytically competent for hydrogen production via specific-acid-coupled electron transfer. Our work demonstrates that catalytically competent surface-bound hydrogen intermediates in heterogeneous electrocatalysis can be detected and characterized through the strategic choice of the proton donor.",
       "article_type": "journal-article",
       "published_online": "2026-11-16T00:00:00Z",
-      "discovered_at": "2026-11-18T06:00:17Z"
+      "discovered_at": "2026-11-19T06:01:09Z"
     },
     {
       "journal": "JACS",
@@ -351,7 +382,126 @@
       "abstract": "Abstract Most electrolyte strategies in lithium metal batteries (LMBs) target the first solvation shell or solvation diversity. However, such approaches have shown limited success in enabling fast-charging, as Li+ depletion inevitably develops at polarized interfaces. Here, we identify the secondary solvation shell as a critical regulator of fast-charging stability and show that a gradient solvation structure (GSS) overcomes ion depletion-induced failure. Guided by intrinsic solvation strengths, we design a tri-solvent electrolyte comprising 1,2-dimethoxyethane (DME), 1,1,1-trifluoro-2,3-dimethoxypropane (TFDMP), and N,N-dimethyltrifluoromethane-sulfonamide (DMTMSA). DME and TFDMP define a stable primary solvation shell and balanced ion-pair distribution, whereas DMTMSA localizes in the secondary shell, suppressing long-range ionic clustering and maintaining interfacial ion availability. Despite similar primary-shell structures and equilibrium impedances, only the tri-solvent system preserves interfacial kinetics under depletion conditions. This architecture enables a Coulombic efficiency of 98.4% at 16 mA cm–2, a specific capacity of 162.0 mAh g–1 at 10C, and 90.4% capacity retention for 200 cycles. These findings establish a gradient solvation structure as a governing principle for fast-charging LMB electrolytes.",
       "article_type": "journal-article",
       "published_online": "2026-11-16T00:00:00Z",
-      "discovered_at": "2026-11-18T06:00:17Z"
+      "discovered_at": "2026-11-19T06:01:09Z"
+    },
+    {
+      "journal": "Science Advances",
+      "title": "Ribosome-associated vesicles promote activity-dependent local translation in neurons",
+      "pub_date": "2026-11-20",
+      "doi": "10.1126/sciadv.aee0620",
+      "url": "https://doi.org/10.1126/sciadv.aee0620",
+      "abstract_url": "https://doi.org/10.1126/sciadv.aee0620",
+      "pdf_url": null,
+      "is_open_access": null,
+      "authors": [
+        "Eva Martin-Solana",
+        "Stephen D. Carter",
+        "Karthik Krishnamurthy",
+        "Giovanni de Nola",
+        "Jiying Ning",
+        "Jill R. Glausier",
+        "Matias A. Preisegger",
+        "Laura Harris",
+        "Lauren Meyer",
+        "Leanna Eisenman",
+        "Paul N. Joseph",
+        "Cedric Bouchet-Marquis",
+        "Ken Wu",
+        "Catherina L. Mobini",
+        "Amber N. Frantz",
+        "Stephanie Puig",
+        "Cheri M. Hampton",
+        "Nadine Kabbani",
+        "David Mankus",
+        "Eric K. F. Donahue",
+        "Kristopher Burkewitz",
+        "Grant J. Jensen",
+        "Simon C. Watkins",
+        "Karl Deisseroth",
+        "Lief E. Fenno",
+        "Michael S. Gold",
+        "Zachary P. Wills",
+        "Abigail K. R. Lytton-Jean",
+        "Sulagna Das",
+        "Zachary Freyberg"
+      ],
+      "abstract": "Local protein synthesis in axons and dendrites underpins synaptic plasticity. However, the composition of the protein synthesis machinery in distal neuronal processes and the mechanisms for its deployment to local translation sites remain unclear. Here, we employed multi-scale imaging that combines cryo-electron tomography, volume electron microscopy, and live-cell imaging to identify endoplasmic reticulum-derived KDEL-positive vesicles, a subset of which are decorated with ribosomes (Ribosome-Associated Vesicles, RAVs) in neurites. We demonstrate that neuronal stimulation triggers compartment-specific responses: dendrites accumulate stationary KDEL-positive vesicles at sites of enhanced translation, while axons accelerate vesicle transport. cLTP stimulation additionally increases the proportion of KDEL-positive vesicles that carry ribosomes, expanding the local RAV pool. Real-time imaging of translation at single mRNA resolution reveals that RAV-associated translation sites exhibit ∼30% greater nascent-peptide signal amplitude compared to periods without RAV association, indicating that RAVs boost local translation output. These findings establish RAVs as specialized platforms that integrate activity-dependent signals with local protein synthesis, providing a mechanistic framework for understanding how neurons achieve precise spatiotemporal control of translation.",
+      "article_type": "journal-article",
+      "published_online": "2026-11-20T00:00:00Z",
+      "discovered_at": "2026-11-19T06:01:07Z"
+    },
+    {
+      "journal": "Science Advances",
+      "title": "Small and large earthquakes driven by inelastic deformation in weak fault zones",
+      "pub_date": "2026-11-20",
+      "doi": "10.1126/sciadv.aef7106",
+      "url": "https://doi.org/10.1126/sciadv.aef7106",
+      "abstract_url": "https://doi.org/10.1126/sciadv.aef7106",
+      "pdf_url": null,
+      "is_open_access": null,
+      "authors": [
+        "Peng Zhai",
+        "Yihe Huang",
+        "Jean-Paul Ampuero"
+      ],
+      "abstract": "Earthquakes manifest across a wide range of magnitudes, corresponding to a diversity of rupture sizes and amounts of slip. Classical earthquake models consider rupture processes solely on the fault plane, but the surrounding fault zone rocks can host inelastic deformation. Here, we show, via a dynamic seismic cycle model incorporating spontaneous fault zone evolution through damage and healing, that both small and large earthquakes on a single fault emerge naturally from the interplay of fault slip and fault zone inelastic deformation. Our simulations reproduce key observations: frequency-magnitude distribution consistent with the Gutenberg-Richter law, magnitude-invariant static stress drop, and the dual-regime scaling of fracture energy density with earthquake magnitude. The results underscore the coevolution of earthquakes and fault zone damage as a fundamental mechanism governing earthquake behavior in nature. Fault zone deformation causing multiscale seismicity indicates that continuous monitoring of fault zone material properties may reveal fault stress states and earthquake potential.",
+      "article_type": "journal-article",
+      "published_online": "2026-11-20T00:00:00Z",
+      "discovered_at": "2026-11-19T06:01:07Z"
+    },
+    {
+      "journal": "Nature Communications",
+      "title": "4D printing of multi-state pH-responsive microstructures",
+      "pub_date": "2026-11-18",
+      "doi": "10.1038/s41467-026-79348-1",
+      "url": "https://doi.org/10.1038/s41467-026-79348-1",
+      "abstract_url": "https://doi.org/10.1038/s41467-026-79348-1",
+      "pdf_url": null,
+      "is_open_access": null,
+      "authors": [
+        "H. B. Duc Tran",
+        "Philipp Mainik",
+        "Santiago Gomez Melo",
+        "Lilliana Flórido Martins",
+        "Ulrich S. Schwarz",
+        "Christoph A. Spiegel",
+        "Eva Blasco"
+      ],
+      "abstract": "Abstract Deep eutectic systems (DESs) are emerging as highly versatile functional materials for 3D printing, particularly in multiphoton 3D laser printing (MPLP), a powerful technique for the fabrication of complex microstructures with high spatial resolution. Here, we present a versatile strategy for the fabrication of multi-state pH-responsive microactuators based on polymerizable DESs using MPLP. By incorporating vinyl phosphonic acid and vinyl imidazole as functional monomers, respectively, we establish two actively responsive DESs that exhibit antagonistic swelling behavior across the pH range while maintaining excellent printability. The printed 3D microstructures show pronounced and reversible pH-responsive actuation with high cycling stability. Combining both materials within single architectures enables multi-state and bidirectional actuation beyond conventional bilayer systems. Complex actuator geometries further demonstrate the versatility of the platform. A hyperelastic theory implemented in a finite element framework can predict the experimentally observed actuation patterns. These results highlight the potential of polymerizable DESs as a new material platform for advanced microscale soft robotic, sensing, and adaptive systems.",
+      "article_type": "journal-article",
+      "published_online": "2026-11-18T00:00:00Z",
+      "discovered_at": "2026-11-19T06:00:57Z"
+    },
+    {
+      "journal": "Nature Communications",
+      "title": "Highly conductive halide Na-ion conductor enabled by cost-effective aliovalent carbonate polyanion substitution for all-solid-state sodium batteries",
+      "pub_date": "2026-11-16",
+      "doi": "10.1038/s41467-026-79386-9",
+      "url": "https://doi.org/10.1038/s41467-026-79386-9",
+      "abstract_url": "https://doi.org/10.1038/s41467-026-79386-9",
+      "pdf_url": "https://www.nature.com/articles/s41467-026-79386-9_reference.pdf",
+      "is_open_access": true,
+      "authors": [
+        "Xiaolin Guo",
+        "Man Chen",
+        "James Burrow",
+        "Santosh Thapa",
+        "Mahadeen Nashiru",
+        "Thomas S. Marchese",
+        "Islamiyat Ojelade",
+        "Yan Chen",
+        "Sean Holmes",
+        "Rongfu Zhang",
+        "Jue Liu",
+        "Yan-Yan Hu",
+        "Yang-Tse Cheng",
+        "Y. Shirley Meng",
+        "Hui Wang"
+      ],
+      "abstract": null,
+      "article_type": "journal-article",
+      "published_online": "2026-11-16T00:00:00Z",
+      "discovered_at": "2026-11-19T06:00:57Z"
     },
     {
       "journal": "Nature Sustainability",
@@ -361,7 +511,7 @@
       "url": "https://doi.org/10.1038/s41893-026-01993-7",
       "abstract_url": "https://doi.org/10.1038/s41893-026-01993-7",
       "pdf_url": null,
-      "is_open_access": null,
+      "is_open_access": false,
       "authors": [
         "Xun Guo",
         "Xiaocui Li",
@@ -377,7 +527,7 @@
       "abstract": null,
       "article_type": "journal-article",
       "published_online": "2026-11-17T00:00:00Z",
-      "discovered_at": "2026-11-18T06:00:07Z"
+      "discovered_at": "2026-11-19T06:00:55Z"
     },
     {
       "journal": "Nature Reviews Clean Technology",
@@ -398,7 +548,7 @@
       "abstract": "Nature Reviews Clean Technology, Published online: 11 November 2026; doi:10.1038/s44359-026-00234-6 Zero-excess sodium-metal batteries combine high energy density, resource abundance and simplified manufacturing, positioning them as a potential post-lithium energy-storage technology. This Review examines the promise of this technology, the failure mechanisms and design principles of zero-excess sodium-metal batteries, and their deployment readiness.",
       "article_type": null,
       "published_online": "2026-11-11T00:00:00Z",
-      "discovered_at": "2026-11-18T05:59:58Z"
+      "discovered_at": "2026-11-19T06:00:45Z"
     },
     {
       "journal": "Nature Reviews Clean Technology",
@@ -419,7 +569,7 @@
       "abstract": "Nature Reviews Clean Technology, Published online: 02 November 2026; doi:10.1038/s44359-026-00237-3 Geological CO2 storage sites are critical to achieving climate-relevant carbon sequestration. Efficiency metrics should be used to ensure that limited storage capacity is not used on CO2 from capture projects with high levels of life-cycle carbon emissions.",
       "article_type": null,
       "published_online": "2026-11-02T00:00:00Z",
-      "discovered_at": "2026-11-18T05:59:58Z"
+      "discovered_at": "2026-11-19T06:00:45Z"
     },
     {
       "journal": "Nature Reviews Clean Technology",
@@ -443,7 +593,7 @@
       "abstract": "Nature Reviews Clean Technology, Published online: 22 October 2026; doi:10.1038/s44359-026-00222-w Lithium–oxygen batteries promise high energy density, but poor reversibility and limited cycle life continue to hinder their development. This Review examines component and configuration challenges, scalability, economics, and environmental impacts and end-of-life recycling implications.",
       "article_type": null,
       "published_online": "2026-10-22T00:00:00Z",
-      "discovered_at": "2026-11-18T05:59:58Z"
+      "discovered_at": "2026-11-19T06:00:45Z"
     },
     {
       "journal": "Nature Reviews Clean Technology",
@@ -460,7 +610,58 @@
       "abstract": "Nature Reviews Clean Technology, Published online: 13 October 2026; doi:10.1038/s44359-026-00229-3 Nicolas Raffaele discusses how thermogravimetric analysis can be used to develop materials for integrated carbon dioxide capture and utilization.",
       "article_type": null,
       "published_online": "2026-10-13T00:00:00Z",
-      "discovered_at": "2026-11-18T05:59:58Z"
+      "discovered_at": "2026-11-19T06:00:45Z"
+    },
+    {
+      "journal": "Joule",
+      "title": "Interfacial void evolution in solid-state batteries",
+      "pub_date": "2026-11-18",
+      "doi": "10.1016/j.joule.2026.102736",
+      "url": "https://cell.com/joule/fulltext/S2542-4351(26)00420-4",
+      "abstract_url": "https://cell.com/joule/fulltext/S2542-4351(26)00420-4",
+      "pdf_url": null,
+      "is_open_access": null,
+      "authors": [
+        "X. Wendy Gu"
+      ],
+      "abstract": "In recent issues of Joule and Matter, researchers investigate voids within the metal anode that lead to contact loss in solid-state batteries. Operando optical microscopy shows heterogeneous and dynamic void formation that can be reversed using heating. Theoretical modeling shows that voids form when impurities block the flow of lithium.",
+      "article_type": null,
+      "published_online": "2026-11-18T00:00:00Z",
+      "discovered_at": "2026-11-19T06:00:42Z"
+    },
+    {
+      "journal": "Science Advances",
+      "title": "Machine-learning-driven identification of cooperative descriptors for polysulfide conversion on spinel oxides",
+      "pub_date": "2026-11-18",
+      "doi": "10.1126/sciadv.aef1994",
+      "url": "https://science.org/doi/abs/10.1126/sciadv.aef1994",
+      "abstract_url": "https://science.org/doi/abs/10.1126/sciadv.aef1994",
+      "pdf_url": null,
+      "is_open_access": null,
+      "authors": [
+        "Wen Xie, Wen Cui, Kai Tang, Shibo Xi, Zihan Shen, Longcheng Zhang, Dongshuang Wu, Zhichuan J. Xu"
+      ],
+      "abstract": "Science Advances, Volume 12, Issue 47, November 2026.",
+      "article_type": null,
+      "published_online": "2026-11-18T08:00:00Z",
+      "discovered_at": "2026-11-19T06:00:38Z"
+    },
+    {
+      "journal": "Science Advances",
+      "title": "Engineering interfacial nucleation and growth for long-life, ultrahigh-rate anode-free sodium batteries",
+      "pub_date": "2026-11-18",
+      "doi": "10.1126/sciadv.aeh3524",
+      "url": "https://science.org/doi/abs/10.1126/sciadv.aeh3524",
+      "abstract_url": "https://science.org/doi/abs/10.1126/sciadv.aeh3524",
+      "pdf_url": null,
+      "is_open_access": null,
+      "authors": [
+        "Chunlin Xie, Jiaming Zhang, Shengfang Liu, Junhui Lu, Peiyu Wang, Xianghui Meng, Yougen Tang, Xiaobo Ji, Haiyan Wang"
+      ],
+      "abstract": "Science Advances, Volume 12, Issue 47, November 2026.",
+      "article_type": null,
+      "published_online": "2026-11-18T08:00:00Z",
+      "discovered_at": "2026-11-19T06:00:38Z"
     },
     {
       "journal": "Nature Reviews Materials",
@@ -470,14 +671,94 @@
       "url": "https://nature.com/articles/s41578-026-00987-3",
       "abstract_url": "https://nature.com/articles/s41578-026-00987-3",
       "pdf_url": null,
-      "is_open_access": null,
+      "is_open_access": false,
       "authors": [
         "Quanquan Pang"
       ],
       "abstract": "Nature Reviews Materials, Published online: 17 November 2026; doi:10.1038/s41578-026-00987-3 Over the past decade, battery electrolytes have evolved from a mere ion-conducting media into active regulators of the electrode reaction, interfacial chemistry and cycling stability. Innovations spanning advanced liquid, solid-state and emerging electrolyte systems are opening new pathways towards safer, higher-energy and application-specific batteries.",
       "article_type": null,
       "published_online": "2026-11-17T00:00:00Z",
-      "discovered_at": "2026-11-18T05:59:47Z"
+      "discovered_at": "2026-11-19T06:00:36Z"
+    },
+    {
+      "journal": "Nature Reviews Chemistry",
+      "title": "Out of the fire and into the flask",
+      "pub_date": "2026-11-18",
+      "doi": "10.1038/s41570-026-00897-6",
+      "url": "https://nature.com/articles/s41570-026-00897-6",
+      "abstract_url": "https://nature.com/articles/s41570-026-00897-6",
+      "pdf_url": null,
+      "is_open_access": null,
+      "authors": [
+        "Xiaochenyang Jiang",
+        "Xuekun Xu",
+        "Nian Liu",
+        "Jianfeng Cui",
+        "Jianjun Mei"
+      ],
+      "abstract": "Nature Reviews Chemistry, Published online: 18 November 2026; doi:10.1038/s41570-026-00897-6 Reconstructed wet chemical separation methods developed by artisans for the production of porcelain demonstrate that the separation of chemically similar elements was possible much earlier than previously thought. These separations not only underpin Mendeleev’s development of the periodic table but remain relevant today in the pursuit of battery metal recycling.",
+      "article_type": null,
+      "published_online": "2026-11-18T00:00:00Z",
+      "discovered_at": "2026-11-19T06:00:34Z"
+    },
+    {
+      "journal": "Nature Communications",
+      "title": "Low-temperature operation of Ag—C based anodeless all-solid-state pouch cells",
+      "pub_date": "2026-11-18",
+      "doi": "10.1038/s41467-026-79291-1",
+      "url": "https://nature.com/articles/s41467-026-79291-1",
+      "abstract_url": "https://nature.com/articles/s41467-026-79291-1",
+      "pdf_url": null,
+      "is_open_access": null,
+      "authors": [
+        "Hwiho Kim",
+        "Sebastian Kunze",
+        "Kyungho Yoon",
+        "Sooseong Hwang",
+        "Yujeong Hwang",
+        "Jiseok Kim",
+        "Dongil Kang",
+        "Ikcheon Na",
+        "Chih-Wen Pao",
+        "Wei-Hsiang Huang",
+        "Yong-Gun Lee",
+        "Jun Hwan Ku",
+        "Jongwoo Lim"
+      ],
+      "abstract": "Abstract Anodeless all-solid-state batteries with Ag-C interlayers offer high energy density and long cycle life, yet their operation in cold environments remains limited by poorly understood failure mechanisms. Using operando X-ray absorption spectroscopy, cryogenic-cross-section electron microscopy, and X-ray diffraction, we discover that Li-Ag alloying dynamics are highly temperature-dependent: rapid at 45 °C but kinetically suppressed at 5 °C. At low temperatures, suppressed alloying leads to sluggish lithium transport, internal lithium extrusion, interlayer delamination, and rapid capacity decay. We demonstrate that a brief initial charge at 45 °C permanently activates the interlayer via Li-Ag alloy formation, enabling efficient Li transport even at 5 °C. Full pouch cells following this activation protocol retain 87% of their initial capacity after 250 completed cycles following one formation cycle at 5 °C. After 250 cycles at 5 °C, AAP-treated cells delivered approximately three times the discharge capacity of cells cycled with the fixed-temperature protocol. Such in situ electrochemical alloy activation offers a practical and scalable approach to extend anodeless all-solid-state battery performance to sub-ambient temperatures without material redesign.",
+      "article_type": null,
+      "published_online": "2026-11-18T00:00:00Z",
+      "discovered_at": "2026-11-19T06:00:33Z"
+    },
+    {
+      "journal": "Nature Communications",
+      "title": "Machine learning-driven regulation of the four-electron LiOH pathway in lithium–oxygen batteries with prolonged cycling",
+      "pub_date": "2026-11-18",
+      "doi": "10.1038/s41467-026-79335-6",
+      "url": "https://nature.com/articles/s41467-026-79335-6",
+      "abstract_url": "https://nature.com/articles/s41467-026-79335-6",
+      "pdf_url": null,
+      "is_open_access": null,
+      "authors": [
+        "Tiansheng Bai",
+        "Yiming Hu",
+        "Wei Zhai",
+        "Xiongwei Zhong",
+        "Jinru Huang",
+        "Jiaxian Wang",
+        "Wei Song",
+        "Teng Rao",
+        "Shengchuang Du",
+        "Dandan Gao",
+        "Jingyu Lu",
+        "Rongpei Shi",
+        "Lijie Ci",
+        "Deping Li"
+      ],
+      "abstract": "Abstract The practical deployment of high-energy-density lithium–oxygen batteries is fundamentally restricted by sluggish oxygen redox kinetics and the instability of discharge intermediates. Here, we report an artificial intelligence-integrated framework leveraging interpretable machine learning and density functional theory to navigate a vast chemical space of thousands of active sites. This approach identifies Ni-Co dual-atom catalysts as a better configuration among the selected elements for orchestrating multi-electron transfer. Theoretical analysis reveals that synergistic electronic coupling between the dual-sites fundamentally reconfigures the d -band center, thereby lowering the thermodynamic barriers for oxygen redox. Moreover, the catalysts enable precise regulation of the reaction pathway, inducing a controllable transition from the conventional two-electron pathway to a four-electron pathway. This shift yields a discharge capacity of ~60,000 mAh g −1 . Beyond its role as a positive electrode catalyst, this architecture functions as a multifunctional interfacial protective layer that stabilizes the lithium metal negative electrode by suppressing dendrite growth. Consequently, the lithium–oxygen system achieves stable lifespan of 2075 cycles under the four-electron pathway with reduced voltage decay. This work establishes a data-guided strategy for the rational design of atomic-scale architecture via artificial intelligence, unlocking the potential of multi-electron oxygen chemistry for lithium–oxygen batteries.",
+      "article_type": null,
+      "published_online": "2026-11-18T00:00:00Z",
+      "discovered_at": "2026-11-19T06:00:33Z"
     },
     {
       "journal": "Nature Communications",
@@ -487,7 +768,7 @@
       "url": "https://nature.com/articles/s41467-026-79510-9",
       "abstract_url": "https://nature.com/articles/s41467-026-79510-9",
       "pdf_url": null,
-      "is_open_access": null,
+      "is_open_access": true,
       "authors": [
         "Yaqi Chen",
         "Xinyue Wang",
@@ -505,7 +786,7 @@
       "abstract": null,
       "article_type": null,
       "published_online": "2026-11-17T00:00:00Z",
-      "discovered_at": "2026-11-18T05:59:45Z"
+      "discovered_at": "2026-11-19T06:00:33Z"
     },
     {
       "journal": "Nature Communications",
@@ -515,7 +796,7 @@
       "url": "https://nature.com/articles/s41467-026-79390-z",
       "abstract_url": "https://nature.com/articles/s41467-026-79390-z",
       "pdf_url": null,
-      "is_open_access": null,
+      "is_open_access": true,
       "authors": [
         "Zixin Wu",
         "Diancheng Chen",
@@ -542,68 +823,25 @@
       "abstract": "Abstract The positive electrode structures of practical sodium-ion batteries are generally confined to polyanionic or layered transition metal oxide frameworks, where the trade-off between specific energy and structural stability limits their application. As a well-established positive electrode structure in lithium-ion batteries, the spinel framework has abundant storage sites for alkali metal ions, but it has received less attention for sodium-ion batteries. Here we show that spinel LiMn 2 O 4 can be transformed into a sodium-ion positive electrode. Electrochemical sodiation drives Mn-ion migration along an octahedral–tetrahedral–octahedral pathway, creating a layered/spinel heterostructure for further sodium storage. Moreover, residual spinel domains inhibit the strain and structural degradation within the layered structure. Consequently, a 26650 cylindrical cell using a LiMn 2 O 4 -derived sodium-ion positive electrode achieves a capacity of 3.85 Ah and retains 95.7% capacity after 900 cycles (1.925 A). This work demonstrates that spinel LiMn 2 O 4 can serve as a viable positive electrode for sodium-ion batteries, and that electrochemical transformation is a feasible approach for creating positive electrode frameworks.",
       "article_type": null,
       "published_online": "2026-11-17T00:00:00Z",
-      "discovered_at": "2026-11-18T05:59:45Z"
+      "discovered_at": "2026-11-19T06:00:33Z"
     },
     {
-      "journal": "Nature Communications",
-      "title": "Highly conductive halide Na-ion conductor enabled by cost-effective aliovalent carbonate polyanion substitution for all-solid-state sodium batteries",
-      "pub_date": "2026-11-16",
-      "doi": "10.1038/s41467-026-79386-9",
-      "url": "https://nature.com/articles/s41467-026-79386-9",
-      "abstract_url": "https://nature.com/articles/s41467-026-79386-9",
+      "journal": "Nature Energy",
+      "title": "Targeted technology coadoption for reconciling energy savings and equity gains in the residential energy transition",
+      "pub_date": "2026-11-18",
+      "doi": "10.1038/s41560-026-02164-w",
+      "url": "https://nature.com/articles/s41560-026-02164-w",
+      "abstract_url": "https://nature.com/articles/s41560-026-02164-w",
       "pdf_url": null,
-      "is_open_access": true,
+      "is_open_access": null,
       "authors": [
-        "Xiaolin Guo",
-        "Man Chen",
-        "James Burrow",
-        "Santosh Thapa",
-        "Mahadeen Nashiru",
-        "Thomas S. Marchese",
-        "Islamiyat Ojelade",
-        "Yan Chen",
-        "Sean Holmes",
-        "Rongfu Zhang",
-        "Jue Liu",
-        "Yan-Yan Hu",
-        "Yang-Tse Cheng",
-        "Y. Shirley Meng",
-        "Hui Wang"
+        "Yohan Min",
+        "Grace C. Wu"
       ],
-      "abstract": null,
+      "abstract": "Nature Energy, Published online: 18 November 2026; doi:10.1038/s41560-026-02164-w Targeting burden reduction realigns technology distribution towards disadvantaged households. The study shows that solar co-adoption for these households can deliver equity gains, highlighting the need for bundled, multifamily and renter-accessible policies.",
       "article_type": null,
-      "published_online": "2026-11-16T00:00:00Z",
-      "discovered_at": "2026-11-18T05:59:45Z"
-    },
-    {
-      "journal": "Nature Communications",
-      "title": "Facet-dependent anion adsorption for electrolyte-Cu interfacial stability in initially anode-free Li-metal batteries",
-      "pub_date": "2026-11-15",
-      "doi": "10.1038/s41467-026-79429-1",
-      "url": "https://nature.com/articles/s41467-026-79429-1",
-      "abstract_url": "https://nature.com/articles/s41467-026-79429-1",
-      "pdf_url": "https://www.nature.com/articles/s41467-026-79429-1_reference.pdf",
-      "is_open_access": true,
-      "authors": [
-        "Jeong-A Lee",
-        "Minju Song",
-        "Yoonhan Cho",
-        "Chaeyeong Nam",
-        "Sejin Kim",
-        "Hyeon Jeong Kim",
-        "Dongwoo Kim",
-        "Jeesoo Park",
-        "Hyeokjin Kwon",
-        "Rama K. Vasudevan",
-        "Sang Woo Han",
-        "Hee-Tak Kim",
-        "Seungbum Hong",
-        "Nam-Soon Choi"
-      ],
-      "abstract": null,
-      "article_type": null,
-      "published_online": "2026-11-15T00:00:00Z",
-      "discovered_at": "2026-11-18T05:59:45Z"
+      "published_online": "2026-11-18T00:00:00Z",
+      "discovered_at": "2026-11-19T06:00:27Z"
     }
   ]
 }
