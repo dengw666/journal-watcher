@@ -1,8 +1,8 @@
 {
-  "feed_date": "2026-11-27",
-  "generated_at": "2026-11-27T06:53:28.992397+00:00",
+  "feed_date": "2026-11-28",
+  "generated_at": "2026-11-28T06:27:22.805710+00:00",
   "window_days": 3,
-  "count": 29,
+  "count": 28,
   "papers": [
     {
       "journal": "Energy & Environmental Science",
@@ -12,7 +12,7 @@
       "url": "https://doi.org/10.1039/d6ee07003e",
       "abstract_url": "https://doi.org/10.1039/d6ee07003e",
       "pdf_url": null,
-      "is_open_access": null,
+      "is_open_access": false,
       "authors": [
         "Modeste Venin Mendieev Nitou",
         "Haodong Xie",
@@ -30,7 +30,7 @@
       "abstract": "Functionally engineered separators regulate Na + transport and interfacial chemistry. They homogenize ion flux, stabilize the SEI, and suppress dendrites to improve reversibility, especially in anode-free sodium metal batteries.",
       "article_type": "journal-article",
       "published_online": "2026-11-26T00:00:00Z",
-      "discovered_at": "2026-11-27T06:53:13Z"
+      "discovered_at": "2026-11-28T06:27:04Z"
     },
     {
       "journal": "Energy & Environmental Science",
@@ -40,7 +40,7 @@
       "url": "https://doi.org/10.1039/d6ee06870g",
       "abstract_url": "https://doi.org/10.1039/d6ee06870g",
       "pdf_url": null,
-      "is_open_access": null,
+      "is_open_access": false,
       "authors": [
         "Haoyue Liang",
         "Qi Chen",
@@ -55,7 +55,7 @@
       "abstract": "This Review highlights lithium–arene complexes (LACs) as versatile liquid lithium sources and establishes the PAH/LAC pair as a reversible lithium carrier, enabling lithium extraction and donation across the battery lifecycle.",
       "article_type": "journal-article",
       "published_online": "2026-11-26T00:00:00Z",
-      "discovered_at": "2026-11-27T06:53:13Z"
+      "discovered_at": "2026-11-28T06:27:04Z"
     },
     {
       "journal": "Energy & Environmental Science",
@@ -65,7 +65,7 @@
       "url": "https://doi.org/10.1039/d6ee05384j",
       "abstract_url": "https://doi.org/10.1039/d6ee05384j",
       "pdf_url": null,
-      "is_open_access": null,
+      "is_open_access": false,
       "authors": [
         "Yunqi Gao",
         "Zewei Hu",
@@ -79,7 +79,7 @@
       "abstract": "Anode-free sodium metal batteries (AFSMBs) promise high energy density and low cost but suffer from irreversible sodium loss, particularly under extreme temperatures where sluggish desolvation kinetics and unstable interfacial chemistry...",
       "article_type": "journal-article",
       "published_online": "2026-11-26T00:00:00Z",
-      "discovered_at": "2026-11-27T06:53:13Z"
+      "discovered_at": "2026-11-28T06:27:04Z"
     },
     {
       "journal": "Energy & Environmental Science",
@@ -104,7 +104,7 @@
       "abstract": "Solar-driven separation–crystallization pump achieves direct lithium crystallization from raw salt-lake brine by synergistic evaporation negative pressure and capillary negative pressure.",
       "article_type": "journal-article",
       "published_online": "2026-11-25T00:00:00Z",
-      "discovered_at": "2026-11-27T06:53:13Z"
+      "discovered_at": "2026-11-28T06:27:04Z"
     },
     {
       "journal": "Energy & Environmental Science",
@@ -128,29 +128,7 @@
       "abstract": "Developing cathodes that can achieve both high electrocatalytic activity and long-term stability remains a fundamental challenge for protonic ceramic fuel cells (PCFCs). Although iron-based perovskites, represented by BaFeO 3− δ (BF), offer...",
       "article_type": "journal-article",
       "published_online": "2026-11-25T00:00:00Z",
-      "discovered_at": "2026-11-27T06:53:13Z"
-    },
-    {
-      "journal": "Energy & Environmental Science",
-      "title": "Ligand-field reconstruction enables 4.7 V LiCoO <sub>2</sub> with suppressed chemomechanical degradation for high-energy batteries",
-      "pub_date": "2026-11-24",
-      "doi": "10.1039/d6ee05635k",
-      "url": "https://doi.org/10.1039/d6ee05635k",
-      "abstract_url": "https://doi.org/10.1039/d6ee05635k",
-      "pdf_url": null,
-      "is_open_access": false,
-      "authors": [
-        "Haochen Gong",
-        "Yue Mao",
-        "Shaowei Wang",
-        "Siyu Fang",
-        "Shuai Hao",
-        "Jie Sun"
-      ],
-      "abstract": "Ligand-field reconstruction via bulk fluorine incorporation stabilizes the oxygen sublattice of LiCoO 2 , enabling outstanding cycling stability under a 4.7 V high cutoff voltage with suppressed surface reconstruction and chemomechanical degradation.",
-      "article_type": "journal-article",
-      "published_online": "2026-11-24T00:00:00Z",
-      "discovered_at": "2026-11-27T06:53:13Z"
+      "discovered_at": "2026-11-28T06:27:04Z"
     },
     {
       "journal": "JACS",
@@ -181,7 +159,7 @@
       "abstract": "Abstract Developing structurally robust layered manganese-based cathodes is pivotal for sodium-ion batteries, yet inhibiting their lattice collapse remains an ongoing challenge. Here, we unravel a previously overlooked degradation mechanism in Na-birnessite, revealing that the localized Pseudo–Jahn–Teller (PJT) distortion exerts a much more catastrophic and dominant impact on framework failure than the traditionally emphasized cooperative Jahn–Teller (JT) effect. We show that during desodiation, the coexistence of structural Mn vacancies and crystal water triggers a strong Mn4+-related PJT distortion, accelerating irreversible oxygen loss at unexpectedly low voltages. To circumvent this vulnerability, we synthesize a Mn-vacancy-suppressed Na0.62Cu0.1Mn0.9O2·0.35H2O cathode. The substantial reduction of Mn vacancies breaks the critical electronic-vibrational coupling pathways, successfully mitigating the localized PJT modes and securing excellent cyclability (80% retention over 1000 cycles). When coupled with a hard carbon anode, the practical viability of this design is fully demonstrated. This discovery shifts the research focus from macro-JT suppression to local-PJT mitigation, establishing an essential guideline for designing degradation-resistant intercalation electrodes.",
       "article_type": "journal-article",
       "published_online": "2026-11-27T00:00:00Z",
-      "discovered_at": "2026-11-27T06:53:10Z"
+      "discovered_at": "2026-11-28T06:27:01Z"
     },
     {
       "journal": "JACS",
@@ -191,7 +169,7 @@
       "url": "https://doi.org/10.1021/jacs.6c18933",
       "abstract_url": "https://doi.org/10.1021/jacs.6c18933",
       "pdf_url": null,
-      "is_open_access": null,
+      "is_open_access": false,
       "authors": [
         "Wei Zhang",
         "Chuan-Kun Ran",
@@ -207,7 +185,7 @@
       "abstract": "Abstract As both alkenes and CO2 are abundant and easily available feedstocks, carboxylation of alkenes with CO2 represents an attractive and sustainable strategy to synthesize value-added carboxylic acids. Despite substantial advances in carboxylation of π-bonds in alkenes, the carboxylation of C–H bonds in alkenes, which preserves the C═C bond in the synthesis of valuable unsaturated carboxylic acids, remains a longstanding challenge, particularly for unactivated alkenes owing to their intrinsically low reactivity. Herein, we report the first electrochemical allylic carboxylation of unactivated alkenes with CO2, providing a direct and selective approach to hard-to-obtain β,γ-unsaturated carboxylic acids. Moreover, this reaction exhibits a broad substrate scope, good functional group tolerance, and applicability to late-stage diversification. Mechanistic studies indicate that the electrogenerated CO2 radical anion acts both as the carboxylation reagent and the hydrogen-atom abstraction species for the subsequent desaturation process, further uncovering the synthetic utility potential of the CO2 radical anion.",
       "article_type": "journal-article",
       "published_online": "2026-11-26T00:00:00Z",
-      "discovered_at": "2026-11-27T06:53:10Z"
+      "discovered_at": "2026-11-28T06:27:01Z"
     },
     {
       "journal": "JACS",
@@ -217,7 +195,7 @@
       "url": "https://doi.org/10.1021/jacs.6c13165",
       "abstract_url": "https://doi.org/10.1021/jacs.6c13165",
       "pdf_url": null,
-      "is_open_access": null,
+      "is_open_access": false,
       "authors": [
         "Chunyan Wang",
         "Zihe Song",
@@ -229,7 +207,7 @@
       "abstract": "Abstract Hydrazine dehydrogenase (HDH) catalyzes the oxidation of hydrazine (N2H4) to dinitrogen (N2) as the final step of anaerobic ammonium oxidation, an essential process in closing the nitrogen cycle. Despite extensive biochemical studies, the detailed mechanism of HDH at a molecular level remains elusive. An increasing number of studies indicate that the hydrazine oxidation reaction (HzOR) is also central to direct hydrazine fuel cells. However, known electrocatalysts for HzOR are predominantly heterogeneous systems, while molecular electrocatalysts are still scarce, especially those inspired by biological HDH. This scarcity not only limits mechanistic understanding but also hinders the development of efficient and tunable catalysts. To tackle these challenging issues, we sought inspiration from the biological HDH system, wherein multiple iron-containing heme subunits cooperatively promote efficient HzOR with the assistance of surrounding sulfur-bearing cysteine residues. Integrating these key features, we selected the thiolate-bridged diiron complex [Cp*Fe(μ-SEt)(MeCN)]2[PF6]2 (1, Cp* = η5-C5Me5) for functionally replicating HDH. Treatment of 1 with N2H4 induces disproportionation to afford the active diazene (N2H2) species, which can be captured by the diiron cooperative platform to yield [Cp*Fe(μ-SEt)2(cis-μ-η1:η1-HN=NH)FeCp*][PF6] (2). In the presence of appropriate electron and proton acceptors, complex 2 undergoes a two-electron oxidation, leading to N2 release and the regeneration of 1. Remarkably, both complexes 1 and 2 serve as efficient molecular electrocatalysts for HzOR. This diiron molecular system not only achieves the functional replication of HDH involving a key N2H2 intermediate but also establishes a bioinspired design strategy for developing multimetal cooperative electrocatalysts toward efficient HzOR.",
       "article_type": "journal-article",
       "published_online": "2026-11-26T00:00:00Z",
-      "discovered_at": "2026-11-27T06:53:10Z"
+      "discovered_at": "2026-11-28T06:27:01Z"
     },
     {
       "journal": "JACS",
@@ -239,7 +217,7 @@
       "url": "https://doi.org/10.1021/jacs.6c20304",
       "abstract_url": "https://doi.org/10.1021/jacs.6c20304",
       "pdf_url": null,
-      "is_open_access": null,
+      "is_open_access": false,
       "authors": [
         "Han Liu",
         "Heng Duan",
@@ -259,7 +237,7 @@
       "abstract": "Abstract Raising the operating current density can effectively reduce the high cost of proton exchange membrane water electrolyzers (PEMWEs), but this approach is limited by rapid electrode degradation. Our previous research identified a critical degradation mechanism in which ionomer migration blocks mass-transport channels in the anode catalyst layer (ACL). Here, we find that each sulfonate group of the ionomer forms only about half a hydrogen bond on the IrO2 surface, indicating a weak catalyst–ionomer interaction. Rather than modifying the IrO2 surface, we propose to introduce additives that provide additional adsorption sites forming stronger hydrogen bonds (SHB) with the sulfonate groups. The resulting SHB-ACL maintains a stable ionomer distribution and pore network even after aging, and exhibits a roughly four fold lower degradation rate over 2500 h at 3.0 A/cm2. Furthermore, the electrode can be readily scaled up to 600 cm2. The improvement stability is at least in part attributable to enhanced interface interaction, although preserved porosity, water/gas transport, and interparticle contacts may also contribute. These findings offer a scalable route toward durable industrial PEMWE devices.",
       "article_type": "journal-article",
       "published_online": "2026-11-26T00:00:00Z",
-      "discovered_at": "2026-11-27T06:53:10Z"
+      "discovered_at": "2026-11-28T06:27:01Z"
     },
     {
       "journal": "JACS",
@@ -289,7 +267,7 @@
       "abstract": "Abstract Despite the high theoretical energy density of concentrated formic acid, direct formic acid fuel cells (DFAFCs) incorporating conventional nanoparticle or emerging single-atom anodes exhibit a precipitous power loss as fuel concentration scales. While CO poisoning is traditionally blamed, we show that this limitation is governed by interfacial acid–base kinetics. By implementing a cation-pinning strategy via rare-earth oxide-modified Rh single-atom sites, we stabilize OH– from water dissociation through interfacial ionic anchoring to trigger localized pH inversion. This modulation leads to the preferential enrichment of interfacial formate, identified here as the primary reactive species. Consequently, Dy2O3–Rh/NC delivers a mass activity 641-fold higher than that of nanoparticle benchmarks. The resulting anode achieves an exceptional peak power density of 375 mW cm–2, surpassing commercial Pd/C across all concentrations. This work establishes precision ionic management as a versatile approach to breaking performance limits in multiphase catalysis.",
       "article_type": "journal-article",
       "published_online": "2026-11-26T00:00:00Z",
-      "discovered_at": "2026-11-27T06:53:10Z"
+      "discovered_at": "2026-11-28T06:27:01Z"
     },
     {
       "journal": "JACS",
@@ -316,7 +294,7 @@
       "abstract": "Abstract Layered metal sulfide ion exchangers are powerful platforms for soft-metal capture, but their application in strongly acidic environments requires framework stability while preserving accessible ion-exchange pathways. Here, we introduce a new series of Cu-modified SnS2-derived layered chalcogenides, AMS-8 (A = Na, K, Rb, Cs), featuring labile interlayer alkali metal ions. NMS-8 (Na1.13Cu1.32Sn3.34S8·xH2O) demonstrates that Cu+ can be incorporated into the SnS2-derived AMS layered motif without disrupting the fundamental architecture. Upon acid exposure, NMS-8 undergoes Na+/H+ exchange and interlayer contraction, showing low Sn leaching in 6 M H2SO4 but substantial Sn dissolution in 6 M HCl after prolonged exposure, despite persistent powder X-ray diffraction reflections of the layered phase. NMS-8 can rapidly capture Pb2+ from water, achieving near-complete removal within 20 s under dilute conditions, a Sips-fitted capacity of 178.2 ± 12.4 mg g–1 (regression standard error), and high selectivity against common competing cations. Structural characterization supports preservation of the lamellar network and a proposed structural model featuring Cu+ displaced off-center within a distorted octahedral framework environment. In an acid mine drainage simulant, NMS-8 selectively removes Pb, Cd, and Cu under acidic multicomponent conditions while retaining its layered structure. Local structural characterization of NMS-8@Pb reveals a spatially heterogeneous Pb distribution within individual crystallites that is not appropriately described by a simple homogeneous interlayer exchange model and is consistent with local structural reorganization during Pb2+ uptake. These results highlight Cu-modified layered thiostannates as promising platforms for rapid, selective soft-metal capture, with substantial resistance to concentrated sulfuric acid and Pb retention dependent on the leaching medium.",
       "article_type": "journal-article",
       "published_online": "2026-11-25T00:00:00Z",
-      "discovered_at": "2026-11-27T06:53:10Z"
+      "discovered_at": "2026-11-28T06:27:01Z"
     },
     {
       "journal": "JACS",
@@ -339,7 +317,7 @@
       "abstract": "Abstract High-voltage operation of Ni-rich layered cathodes LiNi0.8Co0.1Mn0.1O2 (NCM811) accelerates electrolyte decomposition at the surface and destabilizes the bulk lattice with oxygen loss. Conventional strategies for regulating the cathode–electrolyte interphase (CEI) commonly suppress persistent parasitic reactions at Ni-rich cathode surfaces, but increase interfacial polarization and offer limited protection against structural degradation in the bulk. Here, a dynamic interphase is constructed by coating NCM811 with a Na+-based solid-electrolyte Na3Zr2Si2PO12 (NZSP). During cycling, Li+/Na+ exchange transforms the NZSP layer into a fast Li+ conducting interphase LixNa3–xZr2Si2PO12 (L-NZSP), while the Na+ ions are incorporated into the NCM811 lattice. The L-NZSP suppresses parasitic reactions at high charging voltages. Meanwhile, the incorporated Na+ ions provide pillar-like support for the layered framework, stabilizing the oxygen lattice and mitigating chemo-mechanical degradation. Consequently, the modified cathode retains 80% capacity after 511 cycles at 4.7 V and enables a 4 Ah pouch cell to deliver 557 Wh kg–1 with 80.5% retention over 118 cycles. This work demonstrates Li+/Na+-exchanging interphase as an effective strategy to couple interfacial protection with bulk lattice reinforcement for high-voltage Ni-rich cathodes in high-energy lithium batteries.",
       "article_type": "journal-article",
       "published_online": "2026-11-25T00:00:00Z",
-      "discovered_at": "2026-11-27T06:53:10Z"
+      "discovered_at": "2026-11-28T06:27:01Z"
     },
     {
       "journal": "JACS",
@@ -373,7 +351,7 @@
       "abstract": "Abstract Two-dimensional (2D) polymorphic materials offer access to unconventional crystal structures that trigger exotic properties and functionalities beyond equilibrium phases. However, extending this opportunity to metal oxides remains highly challenging because both thickness reduction and phase transformation involve large energy barriers in such strongly bonded ionic structures. Here we report an atomic-freezing conversion strategy that kinetically stabilizes freestanding 2D metastable oxide crystals under subambient conditions. Single-crystalline cubic ZrO2 of monolayer thickness is produced and stabilized below room temperature, although this phase is typically stable only at temperatures above 2000 °C in bulk. Structural analysis reveals that the layered ZrNCl precursor contains a Zr atomic framework that matches the (111) planes of cubic ZrO2. During conversion, suppressed atomic motion under low temperatures and 2D confinement preserves the nonequilibrium cubic structure. The resulting 2D cubic ZrO2 exhibits a high dielectric permittivity of ∼23.5 and enables MoS2 field-effect transistors with an on/off ratio of ∼108 and a subthreshold slope as low as 63.5 mV dec–1. This approach also applies to cubic HfO2 and tetragonal Bi2O3, providing a general kinetic route to bypass thermodynamic phase constraints and expanding access to metastable oxides in the 2D limit.",
       "article_type": "journal-article",
       "published_online": "2026-11-25T00:00:00Z",
-      "discovered_at": "2026-11-27T06:53:10Z"
+      "discovered_at": "2026-11-28T06:27:01Z"
     },
     {
       "journal": "JACS",
@@ -415,94 +393,29 @@
       "abstract": "Abstract All-solid-state batteries (ASSBs) hold great promise for next-generation energy storage owing to their high safety and energy density, yet their performance critically depends on solid electrolytes (SEs) with high ionic conductivity and structural robustness. Mixed-anion chemistry, exemplified by the Cl/O system, has emerged as an effective approach for designing halide-based superionic conductors, where partial oxygen incorporation distorts the regular halide framework and enhances Li+ mobility. However, we herein show that uncontrolled oxygen incorporation is prone to generate nonbridging oxygens (NBOs), which can hinder Li+ migration via Coulombic interactions. To address this, we develop a polyanion-assisted cross-linking strategy that promotes more bridging-oxygen (BOs) coordination and less formation of NBOs. This yields a highly disordered, frustrated energy landscape conducive to efficient Li+ percolation and rapid ion migration. As an example, PO43– polyanion cross-linked ZrClx halide networks (ZrCl4-xLi3PO4) are developed and exhibit ionic conductivities up to 2.8 × 10–3 S cm–1 at 30 °C, competitive with state-of-the-art rare-metal halides, while maintaining &gt;10–3 S cm–1 after humid exposure (5% RH, 12 h). ASSBs incorporating these electrolytes demonstrate stable cycling not only under elevated temperatures (55 °C) but also under high voltages (4.6 V). These findings identify NBO environments as potential transport inhibitors and establish inorganic cross-linking topochemistry as a structural design principle for robust, high-performance, halide solid electrolytes.",
       "article_type": "journal-article",
       "published_online": "2026-11-25T00:00:00Z",
-      "discovered_at": "2026-11-27T06:53:10Z"
+      "discovered_at": "2026-11-28T06:27:01Z"
     },
     {
-      "journal": "JACS",
-      "title": "Entropy Engineering Accelerates High-Temperature Oxygen Evolution Reaction Rate via Spin Manipulation",
-      "pub_date": "2026-11-24",
-      "doi": "10.1021/jacs.6c20294",
-      "url": "https://doi.org/10.1021/jacs.6c20294",
-      "abstract_url": "https://doi.org/10.1021/jacs.6c20294",
+      "journal": "Science Advances",
+      "title": "Meridional ocean temperature gradient drives climate stability in the Late Ordovician",
+      "pub_date": "2026-11-27",
+      "doi": "10.1126/sciadv.aej0478",
+      "url": "https://doi.org/10.1126/sciadv.aej0478",
+      "abstract_url": "https://doi.org/10.1126/sciadv.aej0478",
       "pdf_url": null,
-      "is_open_access": false,
+      "is_open_access": null,
       "authors": [
-        "Geng Zou",
-        "Kaixin Li",
-        "Shaowei Zhang",
-        "Zijian Tan",
-        "Jingcheng Yu",
-        "Mingrun Li",
-        "Lina Yu",
-        "Xiaomin Zhang",
-        "Zhentao Ma",
-        "Xusheng Zheng",
-        "Shiming Zhou",
-        "Fang Lu",
-        "Ding Ma",
-        "Zhe Lv",
-        "Yuefeng Song",
-        "Guoxiong Wang",
-        "Xinhe Bao"
+        "Joseph Naar",
+        "Yannick Donnadieu",
+        "Alexandre Pohl",
+        "Guillaume Le Hir",
+        "Jean-Baptiste Ladant",
+        "Daniel J. Lunt"
       ],
-      "abstract": "Abstract The high-temperature oxygen evolution reaction (OER) activity is closely correlated to the spin state of transition metals in perovskite anodes. However, the roles of entropy engineering in modulating the spin state and influencing high-temperature OER kinetics remain poorly understood. Herein, we demonstrate that entropy engineering of La0.7Sr0.3FeO3−δ to (SmNdPrLaBaSrCa)FeO3−δ (SNPLBSCF) induces a transition of B-site Fe species from high-spin to low-spin states. This transition enhances the d–p hybridization of Fe–O bonds, lowers the energy barriers for electron transfer and oxygen ion migration, and finally accelerates the high-temperature OER kinetics. Consequently, the SNPLBSCF anode in a solid oxide electrolysis cell (SOEC) achieves a current density of 3.64 A·cm–2 at 800 °C and 1.6 V, outperforming most reported anodes. This work not only provides fundamental insights into the spin state-activity relationships of perovskite oxides but also offers a viable strategy for the rational design of highly efficient SOEC anodes through entropy engineering.",
+      "abstract": "The Hirnantian glaciation (Late Ordovician, 445 million years ago) involved rapid tropical cooling of ∼7°C, difficult to reproduce without invoking a major decline in atmospheric carbon dioxide (CO 2 ). A previous modeling study provided an appealing explanation by identifying a climatic instability in the Late Ordovician ocean-atmosphere system using the Fast Ocean Atmosphere Model (FOAM), whereby a modest decrease in atmospheric partial pressure of CO 2 ( P co 2 ) triggered abrupt tropical cooling. Here, our simulations with the comprehensive IPSL-CM5A2 model instead show continuous cooling as P co 2 decreases. We attribute this contrasting behavior to the warmer high-latitude climate simulated by FOAM, which predisposes sea ice to an abrupt transition and arises from overly diffusive ocean dynamics and coupled cloud radiative processes. Yet, broader model intercomparison suggests that climate stability is controlled by the equator-to-pole temperature gradient, rather than by model realism or complexity. These findings have major implications for constraining the onset and evolution of the Hirnantian glaciation, by exploiting proxy-constrained meridional temperature gradients and contrasting model parameterizations as physically motivated end-member hypotheses.",
       "article_type": "journal-article",
-      "published_online": "2026-11-24T00:00:00Z",
-      "discovered_at": "2026-11-27T06:53:10Z"
-    },
-    {
-      "journal": "JACS",
-      "title": "Halogenated Triazole-Based Metal–Organic Framework Achieves Ultra-Selective CO2 Capture under Humid Conditions",
-      "pub_date": "2026-11-24",
-      "doi": "10.1021/jacs.6c13451",
-      "url": "https://doi.org/10.1021/jacs.6c13451",
-      "abstract_url": "https://doi.org/10.1021/jacs.6c13451",
-      "pdf_url": "https://pubs.acs.org/jacsat/article-pdf/doi/10.1021/jacs.6c13451/69277489/jacs.6c13451.pdf",
-      "is_open_access": true,
-      "authors": [
-        "Armando Rigamonti",
-        "Jacopo Perego",
-        "Charl X. Bezuidenhout",
-        "Sergio Piva",
-        "Erica Montanari",
-        "Angiolina Comotti",
-        "Silvia Bracco"
-      ],
-      "abstract": "Abstract Selective CO2 capture from humid, N2-rich flue gas requires adsorbents that combine extreme CO2/N2 discrimination with robustness under realistic conditions. However, only a few MOFs are able to combine ultrahigh selectivity, humidity tolerance, scalable synthesis, and structural durability. Here, we introduce CALF-20-X (X = Cl or Br) halogentriazolate–oxalate Zn-MOFs and a PVDF composite, integrating these attributes into an ultramicroporous framework. The halogenated Zn-MOFs are obtained by means of solvent-minimized liquid-assisted grinding followed by water-incubation route, producing a highly crystalline material. Halogen functionalization polarizes the triazolate C–H donor, thereby promoting directional C–H···O(CO2) contacts and enhancing electrostatic complementarity, as evidenced by an experimental isosteric heat of adsorption of 48 kJ/mol. Furthermore, this halogen substitution significantly restricts the size of the pore window inhibiting N2 uptake, and leads to the formation of perfectly CO2-fitted pockets. These combined features enabled a CO2 excellent adsorption of 2.89 mmol g–1 at 0.15 bar and 298 K, and CO2/N2 selectivity higher than 4074 for CALF-20-Cl, exceeding leading physisorbent benchmarks. The highly selective CO2 capture was confirmed by dynamic breakthrough experiments performed on a CALF-20-Cl@PVDF composite under humid conditions over numerous cycles, thus demonstrating its robust performance under flue-gas-relevant conditions. Competitive CO2/H2O breakthrough experiments, supported by GCMC simulations, demonstrate that CO2 sorption is favored at 21% relative humidity (RH), resulting in a 56% suppression of water uptake, and even remains competitive at RH &gt; 50% and 318 K, a temperature relevant for carbon capture from point sources. These results highlight halogen-driven structural engineering for regenerable and humidity-tolerant next-generation CO2-selective MOF adsorbents with complete retention of the performance metrics.",
-      "article_type": "journal-article",
-      "published_online": "2026-11-24T00:00:00Z",
-      "discovered_at": "2026-11-27T06:53:10Z"
-    },
-    {
-      "journal": "JACS",
-      "title": "Elusive *CH–*CHO Coupling Pathway for High-Performance CO2 Electroreduction to n-Propanol",
-      "pub_date": "2026-11-24",
-      "doi": "10.1021/jacs.6c15732",
-      "url": "https://doi.org/10.1021/jacs.6c15732",
-      "abstract_url": "https://doi.org/10.1021/jacs.6c15732",
-      "pdf_url": null,
-      "is_open_access": false,
-      "authors": [
-        "Chenchen Fang",
-        "Xiaoyuan Zhang",
-        "Jinghong Wang",
-        "Liming Dai",
-        "Yaya Wang",
-        "Hua Wen",
-        "Zhuolun Li",
-        "Shuo San",
-        "Kai Liu",
-        "Yi Zhao",
-        "Yongsheng Fu",
-        "Jianfei Che",
-        "Li Shi",
-        "Jingwen Sun",
-        "Junwu Zhu"
-      ],
-      "abstract": "Abstract The electrocatalytic reduction of CO2 to high-value n-propanol represents a promising yet challenging route toward sustainable carbon utilization. However, its practical implementation is severely hindered by low selectivity and activity, primarily originating from the high energy barrier involved in the rate-limiting *C2–*C1 coupling step. Herein, we have successfully constructed an elusive *CH–*CHO coupling pathway on a stable Janus Cu2+/Cu0 catalyst, enabling low-barrier *C2 intermediate formation and highly selective n-propanol production. Leveraging the strong electron-accepting capacity of Cu2+ sites, key *CHO intermediates are strongly adsorbed and driven toward deep reduction to *CH species, effectively overcoming the critical five-electron transfer bottleneck for *CH generation. Meanwhile, adjacent Cu0 sites provide moderate and balanced adsorption of *CHO intermediates, allowing their asymmetric coupling with the Cu2+-stabilized *CH via a markedly low energy barrier, synergistically steering the reaction along the favorable *CH–*CHO pathway. In situ fiber-optic guided ATR-FTIR spectroscopy provides evidence for the coexistence of *CHO and *CHx-related intermediates, while DFT calculations further support the proposed *CH–*CHO coupling pathway. Accordingly, the Janus Cu2+/Cu0 catalyst achieves a high n-propanol Faradaic efficiency of 18.1% at a partial current density of 72.4 mA cm–2, alongside remarkable stability. This work establishes the *CH–*CHO pathway as a powerful strategy for kinetically favorable C–C coupling, opening a new mechanistic avenue for efficient conversion of CO2 to multicarbon via electrosynthesis.",
-      "article_type": "journal-article",
-      "published_online": "2026-11-24T00:00:00Z",
-      "discovered_at": "2026-11-27T06:53:10Z"
+      "published_online": "2026-11-27T00:00:00Z",
+      "discovered_at": "2026-11-28T06:26:59Z"
     },
     {
       "journal": "Science Advances",
@@ -511,7 +424,7 @@
       "doi": "10.1126/sciadv.aeh8971",
       "url": "https://doi.org/10.1126/sciadv.aeh8971",
       "abstract_url": "https://doi.org/10.1126/sciadv.aeh8971",
-      "pdf_url": null,
+      "pdf_url": "https://www.science.org/doi/pdf/10.1126/sciadv.aeh8971?download=true",
       "is_open_access": true,
       "authors": [
         "Tran Quang Trung",
@@ -528,7 +441,7 @@
       "abstract": "Most artificial synapses, which are designed to communicate with biological neural systems and exhibit neuron-like functions, rely primarily on electrical signals. Biotic-abiotic neural interfaces that use artificial synapses to communicate with biological synapses via chemical neurotransmitters while exhibiting synaptic plasticity are of great interest. Here, we present an artificial chemical postsynapse that directly interfaces with biological systems through dopamine (DA) neurotransmitters and demonstrates synaptic plasticity–like behavior. The artificial postsynapse of a flexible fiber–based organic electrochemical transistor (F-OECT) with a capacitive-like charging gate electrode, which combines volumetric charge storage and DA-sensing functionalities, can detect pulsatile DA release and transduce these sensing signals with plasticity-like behavior. The F-OECT synapse emulates key synaptic functions observed in biological synapses by responding to pulse-like DA release from dopaminergic cells. We also implanted fiber-based artificial postsynapses into a mouse brain to study their basic interaction with DA release and to evaluate biocompatibility.",
       "article_type": "journal-article",
       "published_online": "2026-11-27T00:00:00Z",
-      "discovered_at": "2026-11-27T06:53:08Z"
+      "discovered_at": "2026-11-28T06:26:59Z"
     },
     {
       "journal": "Nature Communications",
@@ -553,28 +466,42 @@
       "abstract": "Abstract Phase-gradient metasurfaces shape optical wavefronts through arrays of optical nanoantennas acting as metaatoms. While dynamic tunability forms a major frontier in this area, direct electrical switching of metaatoms operating in the visible has remained challenging. Here, we present an exciton-based metaatom that is electrically tunable and operates in the visible. Its function originates from an excitonic absorption band of a dedoped conjugated polymer, which together with low background permittivity induces optical metallicity in the visible. This allows anisotropic nanostructures to exhibit polarization-dependent optical response through localized surface exciton-polariton resonances, rather than plasmons or dielectric Mie resonances. This function can be fully switched off through reversible doping by small bias potentials, which turns off the exciton-induced metallicity. Our study details the mechanism of these metaatoms and demonstrates their use in electrically tunable phase-gradient metasurfaces for visible light, including erasable and rewritable holograms. This work thereby establishes a class of electrically switchable exciton-based metaatoms and expands the design space of dynamic visible metaoptics.",
       "article_type": "journal-article",
       "published_online": "2026-11-25T00:00:00Z",
-      "discovered_at": "2026-11-27T06:53:02Z"
+      "discovered_at": "2026-11-28T06:26:52Z"
     },
     {
-      "journal": "Nature Communications",
-      "title": "Global intercomparison of ocean-based geochemical carbon dioxide removal efficiencies",
-      "pub_date": "2026-11-24",
-      "doi": "10.1038/s41467-026-78856-4",
-      "url": "https://doi.org/10.1038/s41467-026-78856-4",
-      "abstract_url": "https://doi.org/10.1038/s41467-026-78856-4",
-      "pdf_url": "https://www.nature.com/articles/s41467-026-78856-4.pdf",
-      "is_open_access": true,
+      "journal": "Nature Nanotechnology",
+      "title": "Dual-cation solvation-tailored electrolyte solutions for low-temperature 48-V/30-Ah lithium-ion battery modules",
+      "pub_date": "2026-11-27",
+      "doi": "10.1038/s41565-026-02339-2",
+      "url": "https://nature.com/articles/s41565-026-02339-2",
+      "abstract_url": "https://nature.com/articles/s41565-026-02339-2",
+      "pdf_url": null,
+      "is_open_access": null,
       "authors": [
-        "Mengyang Zhou",
-        "Mary-Louise Timmermans",
-        "Elizabeth Yankovsky",
-        "Michael D. Tyka",
-        "Matthew C. Long"
+        "Jia-Yan Liang",
+        "Xiaowei Liu",
+        "Yanyan Zhang",
+        "Ya You",
+        "Yang Xia",
+        "Bo-Zheng Liu",
+        "Qian Li",
+        "Yu Zhang",
+        "Ji-Lei Shi",
+        "Ji-Ling Yue",
+        "Yao Zhao",
+        "Bo Guan",
+        "Jun-Feng Xiang",
+        "Fuyi Wang",
+        "Wenkui Zhang",
+        "Chunhui Yang",
+        "Sen Xin",
+        "Jiecai Han",
+        "Yu-Guo Guo"
       ],
-      "abstract": "Abstract Ocean-based geochemical CO 2 removal approaches, including ocean alkalinity enhancement (OAE) and direct ocean removal (DOR), have received attention for their potential to remove billion-ton-scale amounts of CO 2 from the atmosphere. Their viability at scale depends on efficiency. Here, we develop a unified framework for evaluating the efficiencies of ocean geochemical perturbations: OAE adds alkalinity, DOR removes dissolved inorganic carbon (DIC), and combined alkalinity and DIC addition (ADA) adds both simultaneously. Using a global ocean biogeochemical model, we map global and seasonal DOR efficiency and compare it with OAE efficiency. Further, we show that OAE and DOR simulations can be combined to quantify the effect of simultaneous perturbations in alkalinity and DIC. This enables direct quantification of the oceanic fate of ADA perturbations from approaches such as enhanced rock weathering, riverine alkalinity enhancement and accelerated weathering of limestone. In these approaches, the added alkalinity partially equilibrates with CO 2 before entering the ocean, effectively adding both alkalinity and DIC.",
-      "article_type": "journal-article",
-      "published_online": "2026-11-24T00:00:00Z",
-      "discovered_at": "2026-11-27T06:53:02Z"
+      "abstract": "Nature Nanotechnology, Published online: 27 November 2026; doi:10.1038/s41565-026-02339-2 A non-aqueous electrolyte solution forms a hierarchical primary solvation sheath with a dual-Li+ inner core, enabling stable Li-based battery operation down to −50 °C across coin cells and Ah-scale modules with different electrode chemistries.",
+      "article_type": null,
+      "published_online": "2026-11-27T00:00:00Z",
+      "discovered_at": "2026-11-28T06:26:40Z"
     },
     {
       "journal": "Joule",
@@ -591,7 +518,7 @@
       "abstract": "Kim et al. reveal that concentrated lithium polysulfides form micron-scale, salt-anion-deficient phases in lean-electrolyte lithium–sulfur batteries, promoting heterogeneous interphase formation and uneven lithium deposition. Fragmenting these phases with a lithium iodide additive improves anode uniformity and cycling stability, establishing spatial electrolyte heterogeneity as a key consideration for practical batteries.",
       "article_type": null,
       "published_online": "2026-11-25T00:00:00Z",
-      "discovered_at": "2026-11-27T06:52:48Z"
+      "discovered_at": "2026-11-28T06:26:36Z"
     },
     {
       "journal": "Science Advances",
@@ -600,7 +527,7 @@
       "doi": "10.1126/sciadv.aeg9915",
       "url": "https://science.org/doi/abs/10.1126/sciadv.aeg9915",
       "abstract_url": "https://science.org/doi/abs/10.1126/sciadv.aeg9915",
-      "pdf_url": null,
+      "pdf_url": "https://www.science.org/doi/pdf/10.1126/sciadv.aeg9915?download=true",
       "is_open_access": true,
       "authors": [
         "Zihan Liu, Longfeng Hu, Sijin Li, Shirong Li, Tianhuai Kang, Hongzhi Liu, Gaoxin Dai, Langming Bai, Heng Liang"
@@ -608,7 +535,24 @@
       "abstract": "Science Advances, Volume 12, Issue 48, November 2026.",
       "article_type": null,
       "published_online": "2026-11-25T08:00:00Z",
-      "discovered_at": "2026-11-27T06:52:46Z"
+      "discovered_at": "2026-11-28T06:26:34Z"
+    },
+    {
+      "journal": "Science Advances",
+      "title": "Efficient and durable direct seawater electrolysis coupled with CO2 mineralization",
+      "pub_date": "2026-11-27",
+      "doi": "10.1126/sciadv.aek1703",
+      "url": "https://science.org/doi/abs/10.1126/sciadv.aek1703",
+      "abstract_url": "https://science.org/doi/abs/10.1126/sciadv.aek1703",
+      "pdf_url": null,
+      "is_open_access": null,
+      "authors": [
+        "Hao Shi, Ruixin Zhou, Tanyuan Wang, Fanhao Zeng, Shuxia Liu, Yinghe Zhao, Chao Wang, Bo Shen, Yunhui Huang, Qing Li"
+      ],
+      "abstract": "Science Advances, Volume 12, Issue 48, November 2026.",
+      "article_type": null,
+      "published_online": "2026-11-27T08:00:00Z",
+      "discovered_at": "2026-11-28T06:26:34Z"
     },
     {
       "journal": "Nature Communications",
@@ -634,7 +578,7 @@
       "abstract": null,
       "article_type": null,
       "published_online": "2026-11-25T00:00:00Z",
-      "discovered_at": "2026-11-27T06:52:41Z"
+      "discovered_at": "2026-11-28T06:26:29Z"
     },
     {
       "journal": "Nature Communications",
@@ -660,7 +604,24 @@
       "abstract": null,
       "article_type": null,
       "published_online": "2026-11-25T00:00:00Z",
-      "discovered_at": "2026-11-27T06:52:41Z"
+      "discovered_at": "2026-11-28T06:26:29Z"
+    },
+    {
+      "journal": "Nature Communications",
+      "title": "Engineering electrolyte ion solvation structures for next-generation batteries",
+      "pub_date": "2026-11-28",
+      "doi": "10.1038/s41467-026-79910-x",
+      "url": "https://nature.com/articles/s41467-026-79910-x",
+      "abstract_url": "https://nature.com/articles/s41467-026-79910-x",
+      "pdf_url": null,
+      "is_open_access": null,
+      "authors": [
+        "Hongtao Sun"
+      ],
+      "abstract": "Nature Communications, Published online: 28 November 2026; doi:10.1038/s41467-026-79910-x Battery performance strongly depends on the solvation structures of mobile ions within electrolytes. Here, the author explores how engineering these structures can guide electrolyte design for fast charging, operation across a wide temperature range and high-voltage stability.",
+      "article_type": null,
+      "published_online": "2026-11-28T00:00:00Z",
+      "discovered_at": "2026-11-28T06:26:27Z"
     },
     {
       "journal": "Nature Chemistry",
@@ -670,7 +631,7 @@
       "url": "https://nature.com/articles/s41557-026-02316-1",
       "abstract_url": "https://nature.com/articles/s41557-026-02316-1",
       "pdf_url": null,
-      "is_open_access": null,
+      "is_open_access": false,
       "authors": [
         "Yaovi Holade",
         "Kouakou Boniface Kokoh"
@@ -678,54 +639,70 @@
       "abstract": "Nature Chemistry, Published online: 26 November 2026; doi:10.1038/s41557-026-02316-1 Non-stoichiometric oxide materials are essential to chemistry, but controlling their synthesis towards a tuneable number of unpaired electrons trapped in the oxygen vacancies remains challenging. Now, a new synthetic strategy leveraging template chemicals renders these materials available for electron-driven electrocatalytic selectivity.",
       "article_type": null,
       "published_online": "2026-11-26T00:00:00Z",
-      "discovered_at": "2026-11-27T06:52:37Z"
+      "discovered_at": "2026-11-28T06:26:24Z"
     },
     {
-      "journal": "Nature Chemistry",
-      "title": "Author Correction: Molecular-docking electrolytes enable high-voltage lithium battery chemistries",
-      "pub_date": "2026-11-24",
-      "doi": "10.1038/s41557-026-02328-x",
-      "url": "https://nature.com/articles/s41557-026-02328-x",
-      "abstract_url": "https://nature.com/articles/s41557-026-02328-x",
-      "pdf_url": "https://www.nature.com/articles/s41557-026-02328-x.pdf",
-      "is_open_access": true,
-      "authors": [
-        "Baochen Ma",
-        "Haikuo Zhang",
-        "Ruhong Li",
-        "Shuoqing Zhang",
-        "Long Chen",
-        "Tao Zhou",
-        "Jinze Wang",
-        "Ruixin Zhang",
-        "Shouhong Ding",
-        "Xuezhang Xiao",
-        "Tao Deng",
-        "Lixin Chen",
-        "Xiulin Fan"
-      ],
-      "abstract": "Nature Chemistry, Published online: 24 November 2026; doi:10.1038/s41557-026-02328-x Author Correction: Molecular-docking electrolytes enable high-voltage lithium battery chemistries",
-      "article_type": null,
-      "published_online": "2026-11-24T00:00:00Z",
-      "discovered_at": "2026-11-27T06:52:37Z"
-    },
-    {
-      "journal": "Nature Materials",
-      "title": "Proximal single atoms for stable electrocatalysts",
-      "pub_date": "2026-11-24",
-      "doi": "10.1038/s41563-026-02796-z",
-      "url": "https://nature.com/articles/s41563-026-02796-z",
-      "abstract_url": "https://nature.com/articles/s41563-026-02796-z",
+      "journal": "Nature Energy",
+      "title": "Molecular locking of lithium ions for improved efficiency and stability of perovskite solar cells",
+      "pub_date": "2026-11-27",
+      "doi": "10.1038/s41560-026-02173-9",
+      "url": "https://nature.com/articles/s41560-026-02173-9",
+      "abstract_url": "https://nature.com/articles/s41560-026-02173-9",
       "pdf_url": null,
-      "is_open_access": false,
+      "is_open_access": null,
       "authors": [
-        "Rafael Guzman-Soriano",
-        "Yao Yang"
+        "Tengfei Pan",
+        "Biyun Ren",
+        "Wan Yang",
+        "Qing Yao",
+        "Kaiyu Wang",
+        "Shijing Qian",
+        "Xin Zhao",
+        "Yajing Li",
+        "Yingdong Xia",
+        "Lingfeng Chao",
+        "Yonghua Chen",
+        "Wei Huang"
       ],
-      "abstract": "Nature Materials, Published online: 24 November 2026; doi:10.1038/s41563-026-02796-z Ru–O–Cr motifs atomically dispersed in proximity on a MnO2 substrate effectively suppress oxidation-induced Ru dissolution with enhanced catalyst durability towards the oxygen evolution reaction in acidic water electrolysers.",
+      "abstract": "Nature Energy, Published online: 27 November 2026; doi:10.1038/s41560-026-02173-9 Spiro-OMeTAD is a common hole-transporting material in n–i–p perovskite solar cells but suffers from instabilities caused by mobile lithium dopant ions. Pan et al. incorporate a molecular locking additive in Spiro-OMeTAD, enhancing both the efficiency and stability of devices.",
       "article_type": null,
-      "published_online": "2026-11-24T00:00:00Z",
-      "discovered_at": "2026-11-27T06:52:36Z"
+      "published_online": "2026-11-27T00:00:00Z",
+      "discovered_at": "2026-11-28T06:26:22Z"
+    },
+    {
+      "journal": "Nature Energy",
+      "title": "Regulation of proton transference for stable and efficient reactive capture of CO<sub>2</sub> from air",
+      "pub_date": "2026-11-27",
+      "doi": "10.1038/s41560-026-02158-8",
+      "url": "https://nature.com/articles/s41560-026-02158-8",
+      "abstract_url": "https://nature.com/articles/s41560-026-02158-8",
+      "pdf_url": null,
+      "is_open_access": null,
+      "authors": [
+        "Hengzhou Liu",
+        "Heejong Shin",
+        "Yuyin Li",
+        "Guangcan Su",
+        "Bosi Peng",
+        "Yong Wang",
+        "Jianan Erick Huang",
+        "Ji-Yoon Song",
+        "Bei Zhou",
+        "Yuanjun Chen",
+        "Hongmin An",
+        "Huajie Ze",
+        "Aditya Menon",
+        "Charles B. Musgrave III",
+        "Woong Hee Lee",
+        "Jennifer B. Dunn",
+        "William A. Goddard III",
+        "Ke Xie",
+        "Edward H. Sargent"
+      ],
+      "abstract": "Nature Energy, Published online: 27 November 2026; doi:10.1038/s41560-026-02158-8 Direct air capture integrated with electrosynthesis to produce fuels and chemicals is hindered by high energy consumption and limited operational lifetimes. Here the authors identify proton management as crucial for stability and achieve 1,000 h of stable operation by using gas-fed hydrogen oxidation at the anode, which maintains ideal ion transport and enhances CO production.",
+      "article_type": null,
+      "published_online": "2026-11-27T00:00:00Z",
+      "discovered_at": "2026-11-28T06:26:22Z"
     },
     {
       "journal": "Nature",
@@ -747,7 +724,7 @@
       "abstract": "Nature, Published online: 25 November 2026; doi:10.1038/s41586-026-11339-0 Reconstruction of radiative forcing resulting from worldwide peatland drainage over the past two centuries reveals a persistent net warming effect caused by the dominant forcing of drainage-induced CO2 emissions over that of avoided CH4 emissions.",
       "article_type": null,
       "published_online": "2026-11-25T00:00:00Z",
-      "discovered_at": "2026-11-27T06:52:34Z"
+      "discovered_at": "2026-11-28T06:26:21Z"
     }
   ]
 }
